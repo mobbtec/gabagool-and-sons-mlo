@@ -1,0 +1,316 @@
+{
+ "sources": {
+  "Tiles107": {
+   "url": "https://ambientcg.com/a/Tiles107",
+   "file": "Tiles107_1K-JPG.zip",
+   "licence": "CC0 1.0",
+   "sha256": "ec41de6439d087cbd4b88ecd373cf240206715a3b3e022c0d556f9eb677940d0"
+  },
+  "PaintedPlaster017": {
+   "url": "https://ambientcg.com/a/PaintedPlaster017",
+   "file": "PaintedPlaster017_1K-JPG.zip",
+   "licence": "CC0 1.0",
+   "sha256": "bae0380d82b6ccac8943b4980417cb3c9de5c896218339c108056f1dfb8e886c"
+  },
+  "Wood058": {
+   "url": "https://ambientcg.com/a/Wood058",
+   "file": "Wood058_1K-JPG.zip",
+   "licence": "CC0 1.0",
+   "sha256": "43e63435243943911de3ca6697d35cc1f562c2872c42ca3d630bc052e5f2b6e3"
+  },
+  "Plastic010": {
+   "url": "https://ambientcg.com/a/Plastic010",
+   "file": "Plastic010_1K-JPG.zip",
+   "licence": "CC0 1.0",
+   "sha256": "46a2504dbef278475b85c846713804a36823c7151cb79c90728d5c6eab283a19"
+  },
+  "Metal009": {
+   "url": "https://ambientcg.com/a/Metal009",
+   "file": "Metal009_1K-JPG.zip",
+   "licence": "CC0 1.0",
+   "sha256": "1b1970219b40fe707e7194b28702f1a65b0d227bbea56da69dfbc8d8b5cfcb5e"
+  }
+ },
+ "files": {
+  "lp20_floor": {
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "bytes": 699176,
+   "sha256": "861baa7ec74e927f125e77f2315ac9c526b3a8c699ecd17becf712dbf0fcfde5",
+   "from": "Tiles107"
+  },
+  "lp20_floor_n": {
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "bytes": 699176,
+   "sha256": "263cf4b66129dfac4b95ba0a14821062457900ccd9fdf188cae8c2eda8386156",
+   "from": "Tiles107"
+  },
+  "lp20_floor_s": {
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "bytes": 699176,
+   "sha256": "453713e20db12ff762c8596c562a31a71d99a08adc3e3bc085eea60c78170409",
+   "from": "Tiles107"
+  },
+  "lp20_wall": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "2b39c7a4b23bf4c5744a6e4a2f4583def5f6a4177073ca90041f63e44ff8f06c",
+   "from": "PaintedPlaster017"
+  },
+  "lp20_wall_n": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "1ff366a3bb1bcc34a3ae58da9dfa1edd7496c8000041103a12113359314f9d50",
+   "from": "PaintedPlaster017"
+  },
+  "lp20_wall_s": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "6124fde2e76933c97a7a59c661fbbe2c8f35cbcf6f96fd6a4e5c6f99a64b52d8",
+   "from": "PaintedPlaster017"
+  },
+  "lp20_teal": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "f872bf11989a07a998aa190641568c95c52bb156d88d0526934bd4cdca50d369",
+   "from": "PaintedPlaster017"
+  },
+  "lp20_teal_n": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "f1638cd7f46ba646b5a3d925a7e612d6d2bb57202be981942d77456485928837",
+   "from": "PaintedPlaster017"
+  },
+  "lp20_teal_s": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "f27ea94f99f8928c1655aa5ff24d735a8fb432df17fe0dfd86507a88ff0abfb3",
+   "from": "PaintedPlaster017"
+  },
+  "lp20_dark": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "74d91e13bce764ed9fd5b1351bd976eeeb1d227ccc8d41397ab8e3bc7f5e334e",
+   "from": "PaintedPlaster017"
+  },
+  "lp20_dark_n": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "f1638cd7f46ba646b5a3d925a7e612d6d2bb57202be981942d77456485928837",
+   "from": "PaintedPlaster017"
+  },
+  "lp20_dark_s": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "f27ea94f99f8928c1655aa5ff24d735a8fb432df17fe0dfd86507a88ff0abfb3",
+   "from": "PaintedPlaster017"
+  },
+  "lp20_lam": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "6759f798be7c543e33dc672aa34ac25920047d5a724e8e2116588efe20818166",
+   "from": "Wood058"
+  },
+  "lp20_lam_n": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "e1903d8bd86f2346efe1a4c4fb9e61e56359eed5679a35dbc9e9704b1244faa5",
+   "from": "Wood058"
+  },
+  "lp20_lam_s": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "759f8a6c78173a2b2c2033969f724b6bd1d96516d4274d1b75d311aaac015d18",
+   "from": "Wood058"
+  },
+  "lp20_top": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "7d20630cfd1fbcfda3ed0ba1830d611b588ce278a20b46e75d3499a824b1769a",
+   "from": "Plastic010"
+  },
+  "lp20_top_n": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "fbd818d86c03ff1c6968459bf752f0b7074c420756726e145a2251c290042dc2",
+   "from": "Plastic010"
+  },
+  "lp20_top_s": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "9ff00819f909b4b73c6f649f3d1a4f2e5df52571926bbeb9f6788d5d0b20abcd",
+   "from": "Plastic010"
+  },
+  "lp20_white": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "ffbb5e963e2d888903229f1414dd68de79a67426285d7ff737005790959533a3",
+   "from": "Plastic010"
+  },
+  "lp20_white_n": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "fbd818d86c03ff1c6968459bf752f0b7074c420756726e145a2251c290042dc2",
+   "from": "Plastic010"
+  },
+  "lp20_white_s": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "9c460a38bd0c9278a80c1a16204fb4dae492609a115729f130b0bdc3272665c6",
+   "from": "Plastic010"
+  },
+  "lp20_alu": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "0bf8a45f9a28db6e6a4fcd8418e951376a338baeb100887f705ebd839e11aec3",
+   "from": "Metal009"
+  },
+  "lp20_alu_n": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "3284deafd2900873d56bfab3c8579156cb9d55d92a84e775aaadf59586726283",
+   "from": "Metal009"
+  },
+  "lp20_alu_s": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "c53cd1435f9a422040187a5f20586a37d73bdd7e7122d3634d633230785d3685",
+   "from": "Metal009"
+  },
+  "lp20_ceil": {
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "bytes": 699176,
+   "sha256": "24de4a4c31cc24630f5ada91bc8f34244bacd2abca4e18a9f5b83acd632ff287",
+   "from": "own procedural"
+  },
+  "lp20_panel": {
+   "size": [
+    64,
+    64
+   ],
+   "format": "DXT1",
+   "bytes": 2856,
+   "sha256": "b5625404bcba715c25cc850998e9fd492d7a40879d5b9bdfc819f132a39a7e02",
+   "from": "own procedural"
+  },
+  "lp20_panel_off": {
+   "size": [
+    64,
+    64
+   ],
+   "format": "DXT1",
+   "bytes": 2856,
+   "sha256": "74a0d901550515b6b25df0ec270ed37092d72f96f29f0fe726321f9e57159249",
+   "from": "own procedural"
+  },
+  "lp20_signs": {
+   "size": [
+    2048,
+    1024
+   ],
+   "format": "DXT1",
+   "bytes": 1398224,
+   "sha256": "864f75e0f1dc12272385c4ad06c475a811cca595b5adacaa159fdae8391dc6c4",
+   "from": "own artwork (gs_15ag_signs200.py)"
+  }
+ }
+}

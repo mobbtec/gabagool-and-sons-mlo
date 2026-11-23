@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.blend1
+*.blend2
+/out/
+/build/
+/reference/
+/reference_vanilla/
+/source/lod_override/
+/source/fivem/*/stream/vanilla_override/
+.DS_Store
+Thumbs.db

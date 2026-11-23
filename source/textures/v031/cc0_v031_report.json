@@ -1,0 +1,74 @@
+{
+ "lp9_boh_tile": {
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "DXT1",
+  "sha256": "635f45bdb2f31e0f16f4e2503b554a8cce2fffd5ce8604f19bd25803f773bf8c",
+  "derived_from": "long_white_tiles_diff_2k.jpg",
+  "source": "https://polyhaven.com/a/long_white_tiles",
+  "licence": "CC0 1.0 (Poly Haven)",
+  "physical_m": 1.27
+ },
+ "lp9_boh_tile_n": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "ff6b9c9af2dcf0f6e8a6b585da9456070fc1aef6d2eaf72159f7315e21a636c6",
+  "derived_from": "long_white_tiles_nor_dx_2k.jpg",
+  "source": "https://polyhaven.com/a/long_white_tiles",
+  "licence": "CC0 1.0 (Poly Haven)",
+  "physical_m": 1.27
+ },
+ "lp9_boh_tile_s": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "f3c7feec5298728702d3dd4f06de6865a3f0531f9a747f43afbad2c9d0ed4ab7",
+  "derived_from": "long_white_tiles_rough_2k.jpg",
+  "source": "https://polyhaven.com/a/long_white_tiles",
+  "licence": "CC0 1.0 (Poly Haven)",
+  "physical_m": 1.27
+ },
+ "lp9_boh_floor": {
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "DXT1",
+  "sha256": "e8c79b5e5710eb885aed18239835c653aaf565be5a782f6604a9c58c226fc78a",
+  "derived_from": "terracotta_floor_tiles_diff_2k.jpg",
+  "source": "https://polyhaven.com/a/terracotta_floor_tiles",
+  "licence": "CC0 1.0 (Poly Haven)",
+  "physical_m": 2.08
+ },
+ "lp9_boh_floor_n": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "0f5b8dfcce82f68216e85e12dfdc0fd67f6fe8995dc2888ff315a3fa197bf166",
+  "derived_from": "terracotta_floor_tiles_nor_dx_2k.jpg",
+  "source": "https://polyhaven.com/a/terracotta_floor_tiles",
+  "licence": "CC0 1.0 (Poly Haven)",
+  "physical_m": 2.08
+ },
+ "lp9_boh_floor_s": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "5c0c5eba11cd084e92ffa08b55ed1902a844e6a08a8acb5e28cda50aa4e5e192",
+  "derived_from": "terracotta_floor_tiles_rough_2k.jpg",
+  "source": "https://polyhaven.com/a/terracotta_floor_tiles",
+  "licence": "CC0 1.0 (Poly Haven)",
+  "physical_m": 2.08
+ }
+}

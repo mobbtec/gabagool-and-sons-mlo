@@ -1,0 +1,268 @@
+{
+  "original": {
+    "packs": 56,
+    "rows": [
+      {
+        "bay": 0,
+        "bottom_z": 1.74,
+        "count": 8,
+        "labels": [
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6"
+        ]
+      },
+      {
+        "bay": 0,
+        "bottom_z": 1.989,
+        "count": 8,
+        "labels": [
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.24,
+        "count": 8,
+        "labels": [
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.489,
+        "count": 8,
+        "labels": [
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.738,
+        "count": 8,
+        "labels": [
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.987,
+        "count": 8,
+        "labels": [
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 2.236,
+        "count": 8,
+        "labels": [
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5"
+        ]
+      }
+    ],
+    "support_points_checked": 224,
+    "lod_distances_m": [
+      55.0
+    ],
+    "entity_flags": [
+      1572864
+    ],
+    "support_error_mm": [
+      -0.477,
+      -0.476
+    ],
+    "between_pack_edges_mm": [
+      54.06
+    ],
+    "checked_market_triangles": 1190
+  },
+  "updated": {
+    "packs": 70,
+    "rows": [
+      {
+        "bay": 0,
+        "bottom_z": 1.746,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs"
+        ]
+      },
+      {
+        "bay": 0,
+        "bottom_z": 1.995,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.246,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.495,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.744,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.993,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 2.242,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      }
+    ],
+    "support_points_checked": 280,
+    "lod_distances_m": [
+      25.0
+    ],
+    "entity_flags": [
+      1572864
+    ],
+    "support_error_mm": [
+      0.023,
+      0.023
+    ],
+    "between_pack_edges_mm": [
+      10.06,
+      42.96,
+      43.06
+    ],
+    "checked_market_triangles": 1924
+  }
+}

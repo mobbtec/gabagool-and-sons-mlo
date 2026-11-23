@@ -1,0 +1,55 @@
+{
+ "script": "source/scripts/gs_15n_make_v029_textures.py",
+ "version": "0.2.9-premium",
+ "textures": [
+  {
+   "name": "lp8_atlas",
+   "file": "lp8_atlas.dds",
+   "size": [
+    1024,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse/emissive",
+   "bytes": 349648,
+   "sha256": "e41c30a3646560cddecca9d5ecca3682df7883876f369322f6805ce55f7dcfd4",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "PIL drawing, DejaVu text, procedural noise"
+  },
+  {
+   "name": "lp8_props",
+   "file": "lp8_props.dds",
+   "size": [
+    512,
+    256
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 87504,
+   "sha256": "e13bac20e3c5a501f6e466c579af4850ce3bd7e9115ca4386bba297d20e9fcd6",
+   "derived_from": [
+    "source/textures/v029/lp8_atlas.png"
+   ],
+   "origin": "original_procedural",
+   "operations": "crops of our own sign atlas"
+  },
+  {
+   "name": "lp_wood_walnut_512",
+   "file": "lp_wood_walnut_512.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 174888,
+   "sha256": "521e2f39cb7a0a0a009558922d482bfdeff87476e9cceaa6cb4fbf97d51d04a1",
+   "derived_from": [
+    "source/textures/slice/lp_wood_walnut.png"
+   ],
+   "origin": "original_procedural",
+   "operations": "streaming copy of our own walnut (1024 -> 512, Lanczos)"
+  }
+ ]
+}

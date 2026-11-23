@@ -1,0 +1,85 @@
+{
+ "source": {
+  "asset": "Marble009",
+  "url": "https://ambientcg.com/view?id=Marble009",
+  "file": "Marble009_1K-JPG.zip",
+  "licence": "CC0 1.0",
+  "sha256": "76c9a0ebdc9615462ea26904886c43f79a8211466f57b3554aa8df2d9193b4c5"
+ },
+ "files": {
+  "lp19_stone": {
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "bytes": 699176,
+   "sha256": "75bfe33eda1c75d7f9cf005b670a99c93b2a0495238d02a5b1f79a59865efab8"
+  },
+  "lp19_stone_n": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "5849a40a589cab7b26373ebc6bab8c4882ddbc07f914e44a9adc20e9f53f2f3a"
+  },
+  "lp19_stone_s": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "5daefcf2c615c3c90dbee45b42b8781ed589a2b8af4eb48c37fd3bef36d29234"
+  },
+  "lp19_case_glass": {
+   "size": [
+    64,
+    64
+   ],
+   "format": "DXT5",
+   "bytes": 5584,
+   "sha256": "d6525a16f23823e19d7f9c815c433b1011c033e948451cc4ddaaa91e317f4ead"
+  },
+  "lp8_atlas (pass_label redrawn)": {
+   "bytes": 349648,
+   "sha256": "6c772e8a5225f1624c49667298b85a6892d62e6c6dcab191a3876369f901c2ca"
+  },
+  "lp19_wood": {
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "bytes": 699176,
+   "sha256": "5b66b853a11f1ab0bbdd49fa60caa7e94976469069087a02a503248f86b6e725"
+  },
+  "lp19_wood_n": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "c30cbeee98abbc009ddd39903117b929b438049f23c02400155935ca36d0e41e"
+  },
+  "lp19_wood_s": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "837e7840c9c18d287036fc032d7b6c88807cdc1ea6c95b4d61ffd7ccb584dce1"
+  }
+ },
+ "source_wood": {
+  "asset": "Wood049",
+  "url": "https://ambientcg.com/view?id=Wood049",
+  "file": "Wood049_1K-JPG.zip",
+  "licence": "CC0 1.0",
+  "sha256": "74ec51bcf5ddfc2e9af6205dc5cbcc90ad51c22117e013ff8b1c7258f8ecbc69"
+ }
+}

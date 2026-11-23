@@ -1,0 +1,51 @@
+{
+ "script": "source/scripts/gs_15l_make_shutter_textures.py",
+ "version": "0.2.7-shutters",
+ "textures": [
+  {
+   "name": "lp7_shutter",
+   "file": "lp7_shutter.dds",
+   "size": [
+    1024,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 349648,
+   "sha256": "52fb7ab0a9d75803c963b5e1900a64dde0586cf326238218bc74c7621d6064f1",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL aged galvanised roller-shutter atlas (slats, bottom bar, rail, curtain back, seal)"
+  },
+  {
+   "name": "lp7_shutter_s",
+   "file": "lp7_shutter_s.dds",
+   "size": [
+    256,
+    128
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 21968,
+   "sha256": "ac4f7055bb3b19d93ee69f19cc54bda734ef7dab7a67a779e67c4499aedfeb2f",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL specular mask for lp7_shutter"
+  },
+  {
+   "name": "lp7_flat_n",
+   "file": "lp7_flat_n.dds",
+   "size": [
+    16,
+    16
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 296,
+   "sha256": "920d0d3fcee281a6c8e84fef9d6f4018e4bdf9e923483cecd01798a1dea8ed28",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "flat normal (16 px)"
+  }
+ ]
+}

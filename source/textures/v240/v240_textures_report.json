@@ -1,0 +1,139 @@
+{
+ "sources": {
+  "PaintedPlaster017": {
+   "url": "https://ambientcg.com/a/PaintedPlaster017",
+   "file": "PaintedPlaster017_1K-JPG.zip",
+   "licence": "CC0 1.0",
+   "sha256": "bae0380d82b6ccac8943b4980417cb3c9de5c896218339c108056f1dfb8e886c"
+  },
+  "Metal009": {
+   "url": "https://ambientcg.com/a/Metal009",
+   "file": "Metal009_1K-JPG.zip",
+   "licence": "CC0 1.0",
+   "sha256": "1b1970219b40fe707e7194b28702f1a65b0d227bbea56da69dfbc8d8b5cfcb5e"
+  }
+ },
+ "files": {
+  "lp24_wall": {
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "bytes": 699176,
+   "sha256": "679de52dde18db29986b0f0188c884b72c45d4ef84134ffbff5ab4b4721314cb",
+   "from": "PaintedPlaster017"
+  },
+  "lp24_wall_n": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "cdf05075eb31f6e28bdb5545224d4fb624cf187bedd160850587c60a34635056",
+   "from": "PaintedPlaster017"
+  },
+  "lp24_wall_s": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "5ac210664739b97c14c055a4b576dee854d3233ecc633e510863c981d35becd7",
+   "from": "own procedural"
+  },
+  "lp24_dado": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "649c1735cf8fed480d1dc7e69fd751c488268ffec258b81ac448e75eabd1b5af",
+   "from": "PaintedPlaster017"
+  },
+  "lp24_dado_n": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "ef4ed2c426cb72e2dbb020acc5ca454c20dd99d399f800fa7c836a4a861c886a",
+   "from": "PaintedPlaster017"
+  },
+  "lp24_dado_s": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "9095cb5cb7100e2339e7511bdb97fe126dcd88c2a05f32c5ab51b219705fdec4",
+   "from": "own procedural"
+  },
+  "lp24_band": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "4ba15c41af7a8c7911fd3c34c216a53ee7a5510cbb4fa0611102d49ffcd11ba6",
+   "from": "PaintedPlaster017"
+  },
+  "lp24_band_n": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "ef4ed2c426cb72e2dbb020acc5ca454c20dd99d399f800fa7c836a4a861c886a",
+   "from": "PaintedPlaster017"
+  },
+  "lp24_band_s": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "36cd174e7dbe888d3875713e606c4c3f2154784a7fe21ba6e4195a4af8f3d2ba",
+   "from": "own procedural"
+  },
+  "lp24_alu": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "216f6c329655d6da4872ea6619759c87273e78160d0a00d35aa7d1d07a556b23",
+   "from": "Metal009"
+  },
+  "lp24_alu_n": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "8c2da2372414543539168a383c59a760d147d5a19a648062549149c326b18b6d",
+   "from": "Metal009"
+  },
+  "lp24_alu_s": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "f0043586ce9f49b54dbd860bb9447b48975f312645d60eff10121e0bc97e69f9",
+   "from": "Metal009"
+  }
+ },
+ "date": "2026-11-21"
+}

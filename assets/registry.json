@@ -1,0 +1,4647 @@
+{
+  "sources": [
+    {
+      "id": "cc0.brown_leather.brown_leather_albedo_2k",
+      "path": "assets/cc0/_downloads/brown_leather_albedo_2k.jpg",
+      "sha256": "b0de2403a31efa31e501b0028c0bd8e504d5bd6318f4a5ce90c550c3067f96d8",
+      "bytes": 2137518,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Brown Leather",
+        "author": "Rob Tuytel",
+        "url": "https://polyhaven.com/a/brown_leather",
+        "download_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_leather/brown_leather_albedo_2k.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://polyhaven.com/license",
+        "retrieved": "2026-10-30 18:33:01",
+        "md5_published": "1bd381c43817743a2affdd1ce2d193c7"
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.brown_leather.brown_leather_nor_dx_2k",
+      "path": "assets/cc0/_downloads/brown_leather_nor_dx_2k.jpg",
+      "sha256": "1b12a10da8a5b48ee1e9fb17c65da1811c46077889502a302196d1a588141f1b",
+      "bytes": 3143818,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Brown Leather",
+        "author": "Rob Tuytel",
+        "url": "https://polyhaven.com/a/brown_leather",
+        "download_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_leather/brown_leather_nor_dx_2k.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://polyhaven.com/license",
+        "retrieved": "2026-10-30 18:33:02",
+        "md5_published": "f0ae424b5a80c601c250b8d125914bc2"
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.brown_leather.brown_leather_rough_2k",
+      "path": "assets/cc0/_downloads/brown_leather_rough_2k.jpg",
+      "sha256": "8a47afca2630310849034fe40ca9497db0956c67c0d933e6efd49d3cd2befe83",
+      "bytes": 2801956,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Brown Leather",
+        "author": "Rob Tuytel",
+        "url": "https://polyhaven.com/a/brown_leather",
+        "download_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_leather/brown_leather_rough_2k.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://polyhaven.com/license",
+        "retrieved": "2026-10-30 18:33:03",
+        "md5_published": "95b48a5c95b02d87dadee46c26f1cfb5"
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.kitchen_wood.kitchen_wood_diff_2k",
+      "path": "assets/cc0/_downloads/kitchen_wood_diff_2k.jpg",
+      "sha256": "da11d51f48e4a85959b6c45ac6a6f50e78bc0aac73f094ddbe1040d71633c4e6",
+      "bytes": 3557700,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Kitchen Wood",
+        "author": "Rob Tuytel",
+        "url": "https://polyhaven.com/a/kitchen_wood",
+        "download_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/kitchen_wood/kitchen_wood_diff_2k.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://polyhaven.com/license",
+        "retrieved": "2026-10-30 18:33:06",
+        "md5_published": "e23ef649eda9bf19c44126b3ffdaaa8a"
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.kitchen_wood.kitchen_wood_nor_dx_2k",
+      "path": "assets/cc0/_downloads/kitchen_wood_nor_dx_2k.jpg",
+      "sha256": "f04d7b68b59541aa3590f8260cc201fb27097e2d550c76875c7b3e1636ec17fd",
+      "bytes": 2915703,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Kitchen Wood",
+        "author": "Rob Tuytel",
+        "url": "https://polyhaven.com/a/kitchen_wood",
+        "download_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/kitchen_wood/kitchen_wood_nor_dx_2k.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://polyhaven.com/license",
+        "retrieved": "2026-10-30 18:33:08",
+        "md5_published": "d82cf49ab52367cd7b9167c5ab2c7625"
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.kitchen_wood.kitchen_wood_rough_2k",
+      "path": "assets/cc0/_downloads/kitchen_wood_rough_2k.jpg",
+      "sha256": "1e50a610725aa193a9b2f25daf3892d13121b02d8f290085f9d613d3a8c4a86d",
+      "bytes": 3520436,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Kitchen Wood",
+        "author": "Rob Tuytel",
+        "url": "https://polyhaven.com/a/kitchen_wood",
+        "download_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/kitchen_wood/kitchen_wood_rough_2k.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://polyhaven.com/license",
+        "retrieved": "2026-10-30 18:33:09",
+        "md5_published": "c15c5f17129ea633ae63422e7d61c212"
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.beige_wall_001.beige_wall_001_diff_2k",
+      "path": "assets/cc0/_downloads/beige_wall_001_diff_2k.jpg",
+      "sha256": "222d4d2e7d5c425c97e5a66790852388cec7706714d773f769fba6bfe08cea4e",
+      "bytes": 235868,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Beige Wall 001",
+        "author": "Dimitrios Savva (photography), Rico Cilliers (processing)",
+        "url": "https://polyhaven.com/a/beige_wall_001",
+        "download_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/beige_wall_001/beige_wall_001_diff_2k.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://polyhaven.com/license",
+        "retrieved": "2026-10-30 18:33:09",
+        "md5_published": "c927ac1136767f1df758ae064f50a2d1"
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.beige_wall_001.beige_wall_001_nor_dx_2k",
+      "path": "assets/cc0/_downloads/beige_wall_001_nor_dx_2k.jpg",
+      "sha256": "14a0ebe5144e374cb1c46ee3037f1c508ed74835e8057232be9d9ed706f424c8",
+      "bytes": 829245,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Beige Wall 001",
+        "author": "Dimitrios Savva (photography), Rico Cilliers (processing)",
+        "url": "https://polyhaven.com/a/beige_wall_001",
+        "download_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/beige_wall_001/beige_wall_001_nor_dx_2k.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://polyhaven.com/license",
+        "retrieved": "2026-10-30 18:33:11",
+        "md5_published": "668e5b855f27a29f30ebdae30e8209c0"
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.beige_wall_001.beige_wall_001_rough_2k",
+      "path": "assets/cc0/_downloads/beige_wall_001_rough_2k.jpg",
+      "sha256": "a76e2307d8ec47d1be1d4710851fc4545db7aecfa176333738a6756358b64767",
+      "bytes": 656368,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Beige Wall 001",
+        "author": "Dimitrios Savva (photography), Rico Cilliers (processing)",
+        "url": "https://polyhaven.com/a/beige_wall_001",
+        "download_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/beige_wall_001/beige_wall_001_rough_2k.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://polyhaven.com/license",
+        "retrieved": "2026-10-30 18:33:12",
+        "md5_published": "6c2a7eb786d436459c231e9d230fb3cc"
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.tiles139.tiles139_2k-jpg",
+      "path": "assets/cc0/_downloads/Tiles139_2K-JPG.zip",
+      "sha256": "1770717257e7f26e071fc187913eba12c0a3ca00048842de1a2bdf6a4788f34e",
+      "bytes": 16290912,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Tiles 139",
+        "author": "ambientCG (Lennart Demes)",
+        "url": "https://ambientcg.com/a/Tiles139",
+        "download_url": "https://ambientcg.com/get?file=Tiles139_2K-JPG.zip",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://docs.ambientcg.com/license/",
+        "retrieved": "2026-10-30 18:33:15",
+        "md5_published": null
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.officeceiling003.officeceiling003_1k-jpg",
+      "path": "assets/cc0/_downloads/OfficeCeiling003_1K-JPG.zip",
+      "sha256": "a111ac029d0d4152db15e5dba07391ac96e0a62991d935a52da7cd1bc3f4f890",
+      "bytes": 7212931,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Office Ceiling 003",
+        "author": "ambientCG (Lennart Demes)",
+        "url": "https://ambientcg.com/a/OfficeCeiling003",
+        "download_url": "https://ambientcg.com/get?file=OfficeCeiling003_1K-JPG.zip",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://docs.ambientcg.com/license/",
+        "retrieved": "2026-10-30 18:33:19",
+        "md5_published": null
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.terrazzo004.terrazzo004_1k-jpg",
+      "path": "assets/cc0/_downloads/Terrazzo004_1K-JPG.zip",
+      "sha256": "fccfebac29c8f0c92905ba32d97fa7d36130fe5834085c9059316c1085be0949",
+      "bytes": 6719878,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Terrazzo 004",
+        "author": "ambientCG (Lennart Demes)",
+        "url": "https://ambientcg.com/a/Terrazzo004",
+        "download_url": "https://ambientcg.com/get?file=Terrazzo004_1K-JPG.zip",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://docs.ambientcg.com/license/",
+        "retrieved": "2026-10-30 18:33:21",
+        "md5_published": null
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.metal012.metal012_1k-jpg",
+      "path": "assets/cc0/_downloads/Metal012_1K-JPG.zip",
+      "sha256": "c4792207f133357c6a6bfb008f6192b8691268fb0a2ca95b45825ac797e5028f",
+      "bytes": 3961854,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Metal 012",
+        "author": "ambientCG (Lennart Demes)",
+        "url": "https://ambientcg.com/a/Metal012",
+        "download_url": "https://ambientcg.com/get?file=Metal012_1K-JPG.zip",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://docs.ambientcg.com/license/",
+        "retrieved": "2026-10-30 18:33:22",
+        "md5_published": null
+      },
+      "approved": "user 2026-10-30 (chat): Vertical Slice CC0 list",
+      "reviewed_by": "Claude (automated checks: size, md5, license page)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "cc0.tiles010.tiles010_1k-jpg",
+      "path": "assets/cc0/_downloads/Tiles010_1K-JPG.zip",
+      "sha256": "14d87fcd62d10977b5e57778d5271912e0fc3eab702d4ffbc55855e8a84c6280",
+      "bytes": 4331091,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Tiles 010",
+        "author": "ambientCG (Lennart Demes)",
+        "url": "https://ambientcg.com/a/Tiles010",
+        "download_url": "https://ambientcg.com/get?file=Tiles010_1K-JPG.zip",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://docs.ambientcg.com/license/",
+        "retrieved": "2026-11-01 14:17:29"
+      },
+      "approved": "user 2026-11-01 14:08 (chat): find the textures on the internet; files announced with size before download",
+      "reviewed_by": "Claude (automated checks: size, sha256, license page)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "cc0.paintedbricks004.paintedbricks004_1k-jpg",
+      "path": "assets/cc0/_downloads/PaintedBricks004_1K-JPG.zip",
+      "sha256": "65c3c8fb7eaf7c1c353f7846e70e55da94698496337ab03014bdd348c498a5b3",
+      "bytes": 6964286,
+      "origin": "CC0",
+      "third_party": {
+        "title": "Painted Bricks 004",
+        "author": "ambientCG (Lennart Demes)",
+        "url": "https://ambientcg.com/a/PaintedBricks004",
+        "download_url": "https://ambientcg.com/get?file=PaintedBricks004_1K-JPG.zip",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "platform_license_page": "https://docs.ambientcg.com/license/",
+        "retrieved": "2026-11-01 14:17:33"
+      },
+      "approved": "user 2026-11-01 14:08 (chat): find the textures on the internet; files announced with size before download",
+      "reviewed_by": "Claude (automated checks: size, sha256, license page)",
+      "reviewed_on": "2026-11-01"
+    }
+  ],
+  "derived": [
+    {
+      "id": "lp.tex.lp_floor_checker",
+      "path": "source/textures/slice/lp_floor_checker.dds",
+      "sha256": "0f55ea9a81d2a509c09d641467b8b01be256382b4294abbb4c95e318d5babade",
+      "bytes": 2796328,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.tiles139.tiles139_2k-jpg:Tiles139_2K-JPG_Color.jpg",
+        "cc0.tiles139.tiles139_2k-jpg:Tiles139_2K-JPG_Displacement.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 2048,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "checker recolour of the 6x6 tiles (parity from the measured grout grid), cream #D9CAAB / brown #6A4630, grout #8E8577"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_floor_checker_n",
+      "path": "source/textures/slice/lp_floor_checker_n.dds",
+      "sha256": "2753aecaa2083016012bf80cb64e945aa0d12827b768ec5b45e901d4d392458f",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.tiles139.tiles139_2k-jpg:Tiles139_2K-JPG_NormalDX.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 1024,
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "resize 1024, bump x0.8"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_floor_checker_s",
+      "path": "source/textures/slice/lp_floor_checker_s.dds",
+      "sha256": "19f129d089083de0100452669fd87887d7387b78d5c729eed01d020013b161e2",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.tiles139.tiles139_2k-jpg:Tiles139_2K-JPG_Roughness.jpg",
+        "cc0.tiles139.tiles139_2k-jpg:Tiles139_2K-JPG_Displacement.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "spec = 0.05 + 0.75 (1-rough)^1.5, grout x0.4"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_wall_plaster",
+      "path": "source/textures/slice/lp_wall_plaster.dds",
+      "sha256": "325c409756ac00618817c9a4a3e94b551968276ca2544cb3976ae829c2cb9851",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.beige_wall_001.beige_wall_001_diff_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 1024,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "tint #E2D5BA"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_wall_plaster_n",
+      "path": "source/textures/slice/lp_wall_plaster_n.dds",
+      "sha256": "9058e2b248f048806f3eaea355b496ac08c800a7c27ad63aa8adf678a011130d",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.beige_wall_001.beige_wall_001_nor_dx_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "bump x0.6"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_wall_plaster_s",
+      "path": "source/textures/slice/lp_wall_plaster_s.dds",
+      "sha256": "f19698fff78d93498a76443abb9e33802b2a50306c379dbe97792769abc8dee1",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.beige_wall_001.beige_wall_001_rough_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "spec 0.02 + 0.18 (1-rough)^1.5"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_wood_walnut",
+      "path": "source/textures/slice/lp_wood_walnut.dds",
+      "sha256": "ad386f7fcf66b3de7da1d81cf621995b0cc823b3b16a3bffd07dbf1c980e8c9b",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.kitchen_wood.kitchen_wood_diff_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 1024,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "tint walnut #4B2F1E, detail x1.25"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_wood_walnut_n",
+      "path": "source/textures/slice/lp_wood_walnut_n.dds",
+      "sha256": "b39b6f116b61bac619790c6529f308adc3d44d2ceb5ba085c216d688bbd72d05",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.kitchen_wood.kitchen_wood_nor_dx_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 1024,
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "bump x0.7"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_wood_walnut_s",
+      "path": "source/textures/slice/lp_wood_walnut_s.dds",
+      "sha256": "fc559a35c1b88ba266a425eba563f01a4b98812d4a8b78f0dd99a8516fb79f14",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.kitchen_wood.kitchen_wood_rough_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "satin: 0.05 + 0.45 (1-rough)^1.5"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_ceiling_tile",
+      "path": "source/textures/slice/lp_ceiling_tile.dds",
+      "sha256": "4b821c95f8d443561b643cb36dbad713848ef6e939e4eb3c7ddc137499b80df3",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.officeceiling003.officeceiling003_1k-jpg:OfficeCeiling003_1K-JPG_Color.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 1024,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "4 light-panel tiles replaced by the neighbouring plain tile, tint #DCD1B8"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_ceiling_tile_n",
+      "path": "source/textures/slice/lp_ceiling_tile_n.dds",
+      "sha256": "d1f0891f9378ec18825b0dc82eb9b6fae985a1503441baa2cab2da2de18e29ac",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.officeceiling003.officeceiling003_1k-jpg:OfficeCeiling003_1K-JPG_NormalDX.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "same tile copies"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_ceiling_tile_s",
+      "path": "source/textures/slice/lp_ceiling_tile_s.dds",
+      "sha256": "8c8f689b5acb46bcaf5d99579a7d13c037093695a67a86519bc174310e743abf",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.officeceiling003.officeceiling003_1k-jpg:OfficeCeiling003_1K-JPG_Roughness.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "0.10 (1-rough)^1.5"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_leather_burgundy",
+      "path": "source/textures/slice/lp_leather_burgundy.dds",
+      "sha256": "28b4a8159fabc1481b5b02df2d0de4eda68b48e01c58dd89a164f1510ca7d740",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.brown_leather.brown_leather_albedo_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 1024,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "tint burgundy #5E1A1D"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_leather_burgundy_n",
+      "path": "source/textures/slice/lp_leather_burgundy_n.dds",
+      "sha256": "6cbc87c2f04241c036c977dfc8ce06f3c8dda78998ac7c17dfe086e0f1af52ec",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.brown_leather.brown_leather_nor_dx_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 1024,
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "resize"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_leather_burgundy_s",
+      "path": "source/textures/slice/lp_leather_burgundy_s.dds",
+      "sha256": "601c56bdb38c44e17a4f7f26642485039ebd2bf0268b853828d082f9f5fe6183",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.brown_leather.brown_leather_rough_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "0.06 + 0.55 (1-rough)^1.5"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_terrazzo",
+      "path": "source/textures/slice/lp_terrazzo.dds",
+      "sha256": "ad7e2fc097ef16fd797213fc798b94f46654c4e4d94217b2a6dec794016da735",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.terrazzo004.terrazzo004_1k-jpg:Terrazzo004_1K-JPG_Color.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 1024,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "warm tint #CDBFA6"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_terrazzo_n",
+      "path": "source/textures/slice/lp_terrazzo_n.dds",
+      "sha256": "9a0e68f7d5dde077fdb2ac2ee3e697001c5f4b994355d7bcafe24e5e5b530150",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.terrazzo004.terrazzo004_1k-jpg:Terrazzo004_1K-JPG_NormalDX.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "bump x0.5 (polished)"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_terrazzo_s",
+      "path": "source/textures/slice/lp_terrazzo_s.dds",
+      "sha256": "e127868f333f90e2680eb6706c3fb6f00ba3419d4995cf382263a7df779e30a3",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.terrazzo004.terrazzo004_1k-jpg:Terrazzo004_1K-JPG_Roughness.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "polished 0.15 + 0.85 (1-rough)^1.5"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_steel",
+      "path": "source/textures/slice/lp_steel.dds",
+      "sha256": "2210cb5c79a2631c8bd19df6f81b6f28a003fc1b8735b2e0f0bbeb92f2585db1",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.metal012.metal012_1k-jpg:Metal012_1K-JPG_Color.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "neutral steel #A9ADAE"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_steel_n",
+      "path": "source/textures/slice/lp_steel_n.dds",
+      "sha256": "19a51021f8a08d092f4373e7bf3a084606be1289a2bcd4e959623a5b2280db39",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.metal012.metal012_1k-jpg:Metal012_1K-JPG_NormalDX.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "bump x0.5"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_steel_s",
+      "path": "source/textures/slice/lp_steel_s.dds",
+      "sha256": "59b8661756c9785728951a485ee1df2b0db13f78236573c5bbecc443baf2df52",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.metal012.metal012_1k-jpg:Metal012_1K-JPG_Roughness.jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 512,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "0.25 + (1-rough)^1.5"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_brass",
+      "path": "source/textures/slice/lp_brass.dds",
+      "sha256": "b23a2bb9042acac301a602b8f5e96e5e03467cb2fd1c66538c78e9a9cafc6a5d",
+      "bytes": 2856,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 64,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "ORIGINAL flat aged brass #A8834A"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_brass_s",
+      "path": "source/textures/slice/lp_brass_s.dds",
+      "sha256": "1e2bf10c985497e59ed2b318bbaf7513d3313d810e8f6ffd50f4ccbb379284a0",
+      "bytes": 2856,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 64,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "ORIGINAL"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_flat_n",
+      "path": "source/textures/slice/lp_flat_n.dds",
+      "sha256": "86a8e09bb71649ca7250e9d5d7a440487ac1468ea5b26d46ea5b8a9c8ac1d06b",
+      "bytes": 2856,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 64,
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "ORIGINAL flat"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_matte_s",
+      "path": "source/textures/slice/lp_matte_s.dds",
+      "sha256": "0d9d6852c3ed15d380ad0fb227844f43f196b148f621a0078cfadb4352398c18",
+      "bytes": 2856,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 64,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "ORIGINAL low spec"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_glow",
+      "path": "source/textures/slice/lp_glow.dds",
+      "sha256": "538cf11a038097550c014c8c80136173a5352e85bed84ec49b2aea8933a5a81f",
+      "bytes": 2856,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 64,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "ORIGINAL warm white for emissive bulbs / globes / case light strips"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_deli_food",
+      "path": "source/textures/slice/lp_deli_food.dds",
+      "sha256": "81672ce0e6bda8e7f9cbda7d6fcddbf4416106f6018c3da55c8dd3c4f1671101",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 1024,
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "ORIGINAL procedural deli food atlas (4x4 cells of 256 px)"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp_deli_food_s",
+      "path": "source/textures/slice/lp_deli_food_s.dds",
+      "sha256": "b5523deefe80fc908e5d735bda2fe933232713026d854b280e1a7cb0192db935",
+      "bytes": 2856,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "script_version": "0.2.0"
+      },
+      "build": {
+        "script": "source/scripts/gs_14_make_slice_textures.py",
+        "params": {
+          "size": 64,
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "ORIGINAL moist spec"
+        }
+      },
+      "reviewed_by": "",
+      "reviewed_on": ""
+    },
+    {
+      "id": "lp.tex.lp2_walnut",
+      "path": "source/textures/v021/lp2_walnut.dds",
+      "sha256": "4133b889efa0dc526464d301c4db4af88d6bfdb1fd9becc3a6f576fe26626f1e",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.kitchen_wood.kitchen_wood_diff_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "tint dark walnut #3E2519, detail x1.45"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_walnut_n",
+      "path": "source/textures/v021/lp2_walnut_n.dds",
+      "sha256": "d76d32b4eff008cd737d806981c24334eb772a09824b488b68ebf3bdec31527f",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.kitchen_wood.kitchen_wood_nor_dx_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "bump x0.9"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_walnut_s",
+      "path": "source/textures/v021/lp2_walnut_s.dds",
+      "sha256": "d5f030f727f897fcee833ee6e6a2139cb677877397e28eb7c7555f3924e8206e",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.kitchen_wood.kitchen_wood_rough_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "satin: 0.06 + 0.55 (1-rough)^1.5"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_leather",
+      "path": "source/textures/v021/lp2_leather.dds",
+      "sha256": "372550de4ea80763b1143107fac912efe8995a69b687f871eb01a03c304f9f6d",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.brown_leather.brown_leather_albedo_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "tint oxblood #4E1519, detail x1.6, original fBm polish patches"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_leather_n",
+      "path": "source/textures/v021/lp2_leather_n.dds",
+      "sha256": "f9f47afc58bf278336ae9f3edac4a3ceb6ba839d982eb97417e68293fc7bd619",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.brown_leather.brown_leather_nor_dx_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "bump x1.3"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_leather_s",
+      "path": "source/textures/v021/lp2_leather_s.dds",
+      "sha256": "22dadd076814d78162736247d9e9f8937cc0fbd0d0d794b0eae85b37da0478c2",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.brown_leather.brown_leather_rough_2k"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "0.10 + 0.65 (1-rough)^1.5, modulated by polish patches"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_enamel",
+      "path": "source/textures/v021/lp2_enamel.dds",
+      "sha256": "7bd237ee62bddb637a7156eb82c843d0d2df00a69a272c4d445c364639e32fdf",
+      "bytes": 174888,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "procedural cream enamel, fBm tone + fine scratches"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_enamel_n",
+      "path": "source/textures/v021/lp2_enamel_n.dds",
+      "sha256": "c3ec67722699a42d647fe2c11c3edaf2e6ab961f954829fb517ae01b7b754254",
+      "bytes": 174888,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "from enamel height"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_enamel_s",
+      "path": "source/textures/v021/lp2_enamel_s.dds",
+      "sha256": "f5868f3d91ff890696ddc82513921a21cef9af060f83d2b6fd33f8c8336d2d0b",
+      "bytes": 43816,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            256,
+            256
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "glossy enamel"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_iron",
+      "path": "source/textures/v021/lp2_iron.dds",
+      "sha256": "52fc4e86d6eb621d7b7b947ee7cab3a3906a4c2f75252b8c19d41a79c2d48d34",
+      "bytes": 174888,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "procedural cast iron, fBm + faint rust"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_iron_n",
+      "path": "source/textures/v021/lp2_iron_n.dds",
+      "sha256": "e0ba506407b1eacbc47f9c57666bd4bd56b5f5c430607290a3c18351d130e126",
+      "bytes": 174888,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "pitting from fBm"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_iron_s",
+      "path": "source/textures/v021/lp2_iron_s.dds",
+      "sha256": "629bcab1c73d9cc05e066c998d1a37a06752d15163bab3c89d0dd872a0385be8",
+      "bytes": 43816,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            256,
+            256
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "semi-matte metal"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_opal",
+      "path": "source/textures/v021/lp2_opal.dds",
+      "sha256": "df7b8791319e1daaeee91b613f788d53d8454d9d3079b51277540030cec22fc0",
+      "bytes": 43816,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            256,
+            256
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "procedural warm milk-glass gradient (emissive)"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_flag",
+      "path": "source/textures/v021/lp2_flag.dds",
+      "sha256": "4ec2bdeac451ebf5d8a869228f9fb709244a0b6ca3cb32ad3ab35f3e1553b408",
+      "bytes": 174888,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "original Italian tricolore (green/white/red, plain), procedural weave + fade"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_flag_n",
+      "path": "source/textures/v021/lp2_flag_n.dds",
+      "sha256": "7fd08363ef15699fb5ab528cb483cc33ef3f5a4cf5482f8bcb94bdf012e2734e",
+      "bytes": 174888,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "weave normal"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_food",
+      "path": "source/textures/v021/lp2_food.dds",
+      "sha256": "f1bc15c9735d87e1b8cf2a4be53827ac69b6a2fd650d12577264bdb089dbe42b",
+      "bytes": 2796328,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            2048,
+            2048
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "ORIGINAL procedural deli food atlas 4x4: salami_casing, salami_cut, prosciutto_rind, prosciutto_cut, provolone_wax, cheese_cut, parm_rind, mortadella_cut, olives_green, olives_black, peppers, mozzarella, mortadella_casing, twine, paper, salami_fine_cut"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_food_n",
+      "path": "source/textures/v021/lp2_food_n.dds",
+      "sha256": "6cfc713e305bad026921b31b43d997dabc0e51022a677aa10a0d3faac9c1bc61",
+      "bytes": 2796328,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            2048,
+            2048
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "from atlas height fields"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp2_food_s",
+      "path": "source/textures/v021/lp2_food_s.dds",
+      "sha256": "48b0e5f326019eb933669861a08c9cf726a26583a2fa6df0ea0ca716bbe1a6a1",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds",
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "script_version": "0.2.1"
+      },
+      "build": {
+        "script": "source/scripts/gs_15_make_v021_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "per-cell gloss"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-10-30"
+    },
+    {
+      "id": "lp.tex.lp3_tile_red",
+      "path": "source/textures/v023/lp3_tile_red.dds",
+      "sha256": "257d23542ee78965f565d3f5b23d90168c217bbd0eece2eaf4474b073d218fc2",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.tiles010.tiles010_1k-jpg",
+        "cc0.tiles010.tiles010_1k-jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "recolour glaze oxblood #7A1C1A-#94251F, joints light grey (from displacement)"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_tile_white",
+      "path": "source/textures/v023/lp3_tile_white.dds",
+      "sha256": "d81602885a8cc067c6ed648002f736c0df18d622f1b02e108d7e957742b989cc",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.tiles010.tiles010_1k-jpg",
+        "cc0.tiles010.tiles010_1k-jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "warm white glaze, darker joints (behind the counter)"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_tile_n",
+      "path": "source/textures/v023/lp3_tile_n.dds",
+      "sha256": "81b010e09a970317e12614d778d06cda0cc9088ff34a74b024c1233d074780fa",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.tiles010.tiles010_1k-jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "as is"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_tile_s",
+      "path": "source/textures/v023/lp3_tile_s.dds",
+      "sha256": "51962bfb64beb0084cb4b9e3d77cda690db65a24599d6f398d980ff0038230c7",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.tiles010.tiles010_1k-jpg",
+        "cc0.tiles010.tiles010_1k-jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "glossy glaze, matte joints"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_paintbrick",
+      "path": "source/textures/v023/lp3_paintbrick.dds",
+      "sha256": "7191c80816b16388ba7f11c3ecf52da3e96e1d17425d2099613785a095229283",
+      "bytes": 2796328,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.paintedbricks004.paintedbricks004_1k-jpg",
+        "cc0.paintedbricks004.paintedbricks004_1k-jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            2048,
+            2048
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "cream paint from AO, original grime fBm, 2x2 repeat (2 m)"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_paintbrick_n",
+      "path": "source/textures/v023/lp3_paintbrick_n.dds",
+      "sha256": "c7d7f424eac46ac163d89ac2c21571c43245395cfefde029bd9d3062760a921a",
+      "bytes": 699176,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.paintedbricks004.paintedbricks004_1k-jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "2x2 repeat, bump x1.2"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_paintbrick_s",
+      "path": "source/textures/v023/lp3_paintbrick_s.dds",
+      "sha256": "2c2818f62471d2187455e488b485ada4d901a71d646e8de6d8af003ef63f9152",
+      "bytes": 174888,
+      "origin": "CC0",
+      "derived_from": [
+        "cc0.paintedbricks004.paintedbricks004_1k-jpg"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "eggshell paint"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_laminate_red",
+      "path": "source/textures/v023/lp3_laminate_red.dds",
+      "sha256": "61678aa51964d8af8e08c9b6cee3ab2a54a0180aaa3a774a3df7a1c6cbf1e8ee",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "original maroon laminate with fine flecks"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_laminate_cream",
+      "path": "source/textures/v023/lp3_laminate_cream.dds",
+      "sha256": "93a9e8fb897429bf008a630744ef512b71b360173bf475f9d5346aff177f9cce",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "original cream speckle laminate with faint boomerang arcs"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_laminate_n",
+      "path": "source/textures/v023/lp3_laminate_n.dds",
+      "sha256": "4e60b69f9445f037e6a0063f1b7eab99a7d767b0388a7718160597525c3f6ab7",
+      "bytes": 174888,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "almost flat"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_laminate_s",
+      "path": "source/textures/v023/lp3_laminate_s.dds",
+      "sha256": "f88f5f6e1e35fd33213c3a1138f386fd8ce0e6f1b253ea6300b4a728f63d594f",
+      "bytes": 43816,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            256,
+            256
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "semi-gloss laminate"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_vinyl_red",
+      "path": "source/textures/v023/lp3_vinyl_red.dds",
+      "sha256": "60d36ac5e32c9900ed8ddeeeacf976020ea357e285a8fb92c51bf71c56a94216",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [
+        "source/textures/v021/lp2_leather.png"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "recolour of lp2_leather (own CC0-derived) to diner red #A11D1F"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_vinyl_s",
+      "path": "source/textures/v023/lp3_vinyl_s.dds",
+      "sha256": "df2897658a551dff83b66ad1854ddf219f57860dee24e41e9f0f96a059acc588",
+      "bytes": 174888,
+      "origin": "ORIGINAL",
+      "derived_from": [
+        "source/textures/v021/lp2_leather_s.png"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "glossier vinyl"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_ceiling_tile",
+      "path": "source/textures/v023/lp3_ceiling_tile.dds",
+      "sha256": "59452f18beafaa05096899d71784726ec1ffc5cc67c95a7c668802972a57c269",
+      "bytes": 2796328,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            2048,
+            2048
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "original fissured mineral-fibre tiles, 8x8 per texture, bevelled edges, 2 water stains"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_ceiling_tile_n",
+      "path": "source/textures/v023/lp3_ceiling_tile_n.dds",
+      "sha256": "7eaceadd13024238f1c55c8ae911df4608bcc4e4407a8501cfb56d75f01ec9a0",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "fissures + tile bevel"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_troffer",
+      "path": "source/textures/v023/lp3_troffer.dds",
+      "sha256": "f0cbc9ce5b3c86eb7a4796e09f83bac8b7830783bc84e01598170aff664dc829",
+      "bytes": 43816,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            256,
+            256
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "original prismatic lens pattern (emissive diffuser)"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_rubber",
+      "path": "source/textures/v023/lp3_rubber.dds",
+      "sha256": "499ec8e3c1750d8679be363db835130e9afb96a5a5379c97c55ce0281c8c4831",
+      "bytes": 43816,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            256,
+            256
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "black rubber cove base / mat"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_mat",
+      "path": "source/textures/v023/lp3_mat.dds",
+      "sha256": "db45fecd839ef0cd5975de94ec4fea4ae2522a673eaf9d00ef339684dc3a8a8d",
+      "bytes": 349648,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            512
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "original ribbed entry mat with own LONG PIG lettering (DejaVu Sans Bold)"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_menu",
+      "path": "source/textures/v023/lp3_menu.dds",
+      "sha256": "341c97415739dfcd6a04178595c2196ae2826d0e938f2670e400dbe2555cd9ef",
+      "bytes": 1398224,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            2048,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "original typographic backlit menu boards (fictional items/prices), DejaVu fonts"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_decal_grime",
+      "path": "source/textures/v023/lp3_decal_grime.dds",
+      "sha256": "a0875c5018862ece8983f8d1a0ea9f448ed5c3f052d576f29bb95f82fdc1fec5",
+      "bytes": 349648,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT5",
+          "role": "diffuse",
+          "operations": "original grime: wall-base strip, floor wear blotch, drips"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_floor_bw",
+      "path": "source/textures/v023/lp3_floor_bw.dds",
+      "sha256": "18d90189deb57c97b82a51ca3f0a59fd21294af6033b75bd45e0a3a5420dfdfe",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [
+        "source/textures/slice/lp_floor_checker.png"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "recolour of lp_floor_checker (CC0 Tiles139) to black / white vinyl checker"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_food",
+      "path": "source/textures/v023/lp3_food.dds",
+      "sha256": "9d297600497df44d8bb5fb87b7cfd4fc48fa86baa86a2d55e7dc36b59487fad6",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [
+        "source/textures/v021/lp2_food.png"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "streaming copy of our original lp2_food (2048 -> 1024, Lanczos)"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_food_n",
+      "path": "source/textures/v023/lp3_food_n.dds",
+      "sha256": "7d0c798c96ec4aa9286cbeed9da6759aed1aa31ecbcd8708b85280a3c4a5af1b",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [
+        "source/textures/v021/lp2_food_n.png"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "streaming copy of our original lp2_food_n (2048 -> 1024, Lanczos, re-normalised)"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp3_rug",
+      "path": "source/textures/v023/lp3_rug.dds",
+      "sha256": "10a12e52dfc744b607f2c62bfdcafed7c669f96c425b990262cfb392fcbd4efd",
+      "bytes": 174880,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "script_version": "0.2.3"
+      },
+      "build": {
+        "script": "source/scripts/gs_15c_make_v023_textures.py",
+        "params": {
+          "size": [
+            1024,
+            256
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "ORIGINAL procedural 90s lounge rug (v0.2.4): charcoal wool, muted confetti, red border with diamond chain"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_tile_red",
+      "path": "source/textures/v025/lp4_tile_red.dds",
+      "sha256": "8f7b038208920b0f1c4addb24b9d697ae42e84fd46db6ebc68859303de66bea0",
+      "bytes": 699176,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_tile_red"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "desaturate/darken to faded oxblood, per-tile glaze variation, ~4% replacement tiles, crazing, dusty grey-brown grout"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_tile_white",
+      "path": "source/textures/v025/lp4_tile_white.dds",
+      "sha256": "553dd022f5669618a45d5132cfc6bc23503a16e7b86fb904ccba2d7029c7810a",
+      "bytes": 699176,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_tile_white"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "yellowed glaze, tile-to-tile variation, one whiter replacement tile per repeat, grease-grey grout"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_paintbrick",
+      "path": "source/textures/v025/lp4_paintbrick.dds",
+      "sha256": "d2d5a8c2468b439fcf2f20224aef96efe9c56270e2718e261598e75967de62d3",
+      "bytes": 2796328,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_paintbrick"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            2048,
+            2048
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "recolour to aged cream, soft repaint patches (lighter / yellower), low-frequency dust"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_floor_bw",
+      "path": "source/textures/v025/lp4_floor_bw.dds",
+      "sha256": "35f1a41e2e8cb704b8dbb02161de85bb76cc5485501a762d000319e8c5d618a8",
+      "bytes": 699176,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_floor_bw"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "lower contrast: charcoal + aged off-white, per-tile variation, traffic dulling, corner chips"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_floor_s",
+      "path": "source/textures/v025/lp4_floor_s.dds",
+      "sha256": "5dfa044b7cdc8839ca07e38d92b9e026486e8ce92247085ba78c904d45395631",
+      "bytes": 174888,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp_floor_checker_s"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "specular x0.55 (dull, walked-on vinyl)"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_ceiling_tile",
+      "path": "source/textures/v025/lp4_ceiling_tile.dds",
+      "sha256": "90d790646fe34ea37afa4feeb26390df52337d5d18958c629dfb4621568824d7",
+      "bytes": 2796328,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_ceiling_tile"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            2048,
+            2048
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "yellowed acoustic tile, tile-to-tile tone variation, rare whiter replacement tile"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_vinyl_red",
+      "path": "source/textures/v025/lp4_vinyl_red.dds",
+      "sha256": "fd2cd170c5eff60f8fa899fa29465c5990c683cfe8b77a403a4da67370c020b3",
+      "bytes": 699176,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_vinyl_red"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "desaturate/darken to dull oxblood, rubbed lighter wear patches"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_laminate_red",
+      "path": "source/textures/v025/lp4_laminate_red.dds",
+      "sha256": "7e2d4a6e839b0b0748665ef437029dad0b9d7004d7c5a8f3520fba072177aaec",
+      "bytes": 699176,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_laminate_red"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "muted brown-burgundy, low-frequency rubbing"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_laminate_cream",
+      "path": "source/textures/v025/lp4_laminate_cream.dds",
+      "sha256": "bfd4cb8ca1d82c38fc10935532f8ce93da7c5239351c4acccfc8c4e771c28b6e",
+      "bytes": 699176,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_laminate_cream"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "yellowed cream laminate, fine scratches, faint cup rings"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_menu",
+      "path": "source/textures/v025/lp4_menu.dds",
+      "sha256": "b9ef7f1dc808db51375f25b822802c12de035270bae40ab75a671f7d7bddcefa",
+      "bytes": 1398224,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_menu"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            2048,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "faded / yellowed backlit menu film, sun-fade gradient, 3 stick-on price corrections"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_troffer",
+      "path": "source/textures/v025/lp4_troffer.dds",
+      "sha256": "98974c9af7a5e578c7a561351b7804470aa8b4a0f36bafce378698bfbcf5096d",
+      "bytes": 43816,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_troffer"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            256,
+            256
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "slightly yellowed fluorescent diffuser"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_flag",
+      "path": "source/textures/v025/lp4_flag.dds",
+      "sha256": "5acf837aeb655e135cc0721454ae37449a2a84696441be9f960794e5d16d15df",
+      "bytes": 174888,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp2_flag"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "sun-bleached tricolore: desaturated, cream cast, dust"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_notices",
+      "path": "source/textures/v025/lp4_notices.dds",
+      "sha256": "0b968228a5165b9d941116b8554ddcb5536478bfa2269268224e1cfe63109423",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "ORIGINAL typographic / drawn notices atlas: health permit, grade card, calendar 2001, staff schedule, CASH ONLY, NO LOITERING, special, cork flyers, 1979 shop photo, espresso poster, clipping, WE CARD, 2 letterboards"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp4_decal_wear",
+      "path": "source/textures/v025/lp4_decal_wear.dds",
+      "sha256": "e6bd74f6ee6c16f447355b367235f36f04c2c0bcf89a1a3749b5ef2e33a639c9",
+      "bytes": 699168,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "script_version": "0.2.5"
+      },
+      "build": {
+        "script": "source/scripts/gs_15g_make_v025_textures.py",
+        "params": {
+          "size": [
+            1024,
+            512
+          ],
+          "format": "DXT5",
+          "role": "diffuse",
+          "operations": "ORIGINAL wear decals: wall-base grime, floor traffic, drips, heel scuffs, ceiling water stain, plaster patch, removed-fixture ghost, tape repair"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-01"
+    },
+    {
+      "id": "lp.tex.lp5_floor_bw",
+      "path": "source/textures/v026/lp5_floor_bw.dds",
+      "sha256": "ffc28a44a8c0dcc058ac5b0d4eeae67da5e7313413a34c865c863c81a149f276",
+      "bytes": 2796328,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp4_floor_bw",
+        "lp.tex.lp3_floor_bw"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            2048,
+            2048
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "4 m repeat (2x2 of lp4), desaturated + lowered contrast, 12x12 per-tile variation, replacement tiles, edge dirt on light tiles, dirty grout, grime, scratches"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_floor_n",
+      "path": "source/textures/v026/lp5_floor_n.dds",
+      "sha256": "57a515a29b732294367588c045da6cde60627d03a373a62368188186a7d870b6",
+      "bytes": 699176,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp_floor_checker_n"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "normal",
+          "operations": "tiled 2x2 for the 4 m repeat, resized to 1024"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_floor_s",
+      "path": "source/textures/v026/lp5_floor_s.dds",
+      "sha256": "ae7dce1ca490360c8ef850d038c2cde541897a9a5ce014018ca0a009312ae64c",
+      "bytes": 174888,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp4_floor_s"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "spec",
+          "operations": "tiled 2x2 for the 4 m repeat, per-tile sheen variation, 512"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_floor_b",
+      "path": "source/textures/v026/lp5_floor_b.png",
+      "sha256": "5d19c1ce1d906362576891e76cc36341f0b51d43d8be9fb5e87c359f9e6f81fa",
+      "bytes": 587059,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "PNG (runtime texture)",
+          "role": "diffuse",
+          "operations": "ORIGINAL: 24x24 gray-beige quarry tiles per 4 m, tone mix, replacement tiles, dirty grout"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_floor_b_n",
+      "path": "source/textures/v026/lp5_floor_b_n.png",
+      "sha256": "1b0bfe20817d101e2fc8fa4c33b11d66c4196086ad0ab28c3477077b0cf158f0",
+      "bytes": 432291,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "PNG (runtime texture)",
+          "role": "normal",
+          "operations": "ORIGINAL: normal from grout height"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_ceiling_tile",
+      "path": "source/textures/v026/lp5_ceiling_tile.dds",
+      "sha256": "126235eeb78e073a27d51900131badfbed78d848a4dc760f67f637214130d78c",
+      "bytes": 2796328,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp3_ceiling_tile"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            2048,
+            2048
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "yellowed acoustic tile, per-tile tone, no baked replacement tile"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_troffer",
+      "path": "source/textures/v026/lp5_troffer.dds",
+      "sha256": "c1be8738536aab062af29d7ae1e66bf57e0fbb7dcd0e1610d877ca05a276fa27",
+      "bytes": 87504,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            512,
+            256
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "ORIGINAL prismatic lens, 3 tube bands, 4 variants: cool, aged warm, weak (tube out), dirty"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_blind",
+      "path": "source/textures/v026/lp5_blind.dds",
+      "sha256": "769d7076df9b41004f3890b83f4ba4c8bdd93c78a84d3326de5caeec166a5135",
+      "bytes": 87504,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            256,
+            512
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "ORIGINAL PVC vertical blind slats: standard / sun-yellowed / stained + crease / whiter replacement"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_decal",
+      "path": "source/textures/v026/lp5_decal.dds",
+      "sha256": "6a2b85855c1ba30ce6ffc14e5c7d459e7537f44f4cbda81080e4a3c2c33caa62",
+      "bytes": 1398224,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT5",
+          "role": "diffuse",
+          "operations": "ORIGINAL decals: vent halo, replacement ceiling tile, wall-top grime, sticker residue, frame ghost, anchor holes, hand rub, vinyl edge wear, tile chips, paint patch, mop marks, scuff band, grease patch, small ceiling stain, street grit, cup rings"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_wall",
+      "path": "source/textures/v026/lp5_wall.dds",
+      "sha256": "eaee08f7e872b3c5a4de6d1d326d502ba3ad37bad084ec9ad1cbc4f5b3513eeb",
+      "bytes": 699176,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            1024,
+            1024
+          ],
+          "format": "DXT1",
+          "role": "diffuse",
+          "operations": "ORIGINAL wall story atlas: fictional supplier poster, 3 photos of our own interior (renders), sponsor plaque, hours card, catering notice, handwritten note, food-handler certificate, generic soda tin sign"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_plaster",
+      "path": "source/textures/v026/lp5_plaster.dds",
+      "sha256": "50ee078db1a8ed284e1ae70fa20156d6ac81481024a7d1953506728cb868d719",
+      "bytes": 174888,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp_wall_plaster"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "resized",
+          "operations": "resized to 512 for the hall memory budget"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_plaster_n",
+      "path": "source/textures/v026/lp5_plaster_n.dds",
+      "sha256": "a5e4a3fa43051ea1e306bcf73bc814be18d335a0942233c37a30d0de399d06d4",
+      "bytes": 43816,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp_wall_plaster_n"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            256,
+            256
+          ],
+          "format": "DXT1",
+          "role": "resized",
+          "operations": "resized to 256 for the hall memory budget"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_plaster_s",
+      "path": "source/textures/v026/lp5_plaster_s.dds",
+      "sha256": "559b0bc9659166d5241102f3379aa532cf1fa99090db4846d4ba7378ae413450",
+      "bytes": 43816,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp_wall_plaster_s"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            256,
+            256
+          ],
+          "format": "DXT1",
+          "role": "resized",
+          "operations": "resized to 256 for the hall memory budget"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_food_s",
+      "path": "source/textures/v026/lp5_food_s.dds",
+      "sha256": "5af4646d92e624eec918bb8b39389f54339a9f8a9fbab35e40f0b41726941e4f",
+      "bytes": 174888,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp2_food_s"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "resized",
+          "operations": "resized to 512 for the hall memory budget"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp5_leather_n",
+      "path": "source/textures/v026/lp5_leather_n.dds",
+      "sha256": "f0fddbd7af952f2f6ef7f513f298ba8633b4a719000a72c106ba7bddb343b53c",
+      "bytes": 174888,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp2_leather_n"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "script_version": "0.2.6"
+      },
+      "build": {
+        "script": "source/scripts/gs_15i_make_v026_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "role": "resized",
+          "operations": "resized to 512 for the hall memory budget"
+        }
+      },
+      "reviewed_by": "Claude (automated: sha256, provenance chain)",
+      "reviewed_on": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp8_atlas",
+      "path": "source/textures/v029/lp8_atlas.dds",
+      "sha256": "e41c30a3646560cddecca9d5ecca3682df7883876f369322f6805ce55f7dcfd4",
+      "bytes": 349648,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy, ffmpeg), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15n_make_v029_textures.py",
+        "script_version": "0.2.9"
+      },
+      "build": {
+        "script": "source/scripts/gs_15n_make_v029_textures.py",
+        "params": {
+          "size": [
+            1024,
+            512
+          ],
+          "format": "DXT1",
+          "content": "signs, labels, tickets, ledgers, cartons (procedural + DejaVu text)"
+        }
+      },
+      "added": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp8_props",
+      "path": "source/textures/v029/lp8_props.dds",
+      "sha256": "e13bac20e3c5a501f6e466c579af4850ce3bd7e9115ca4386bba297d20e9fcd6",
+      "bytes": 87504,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp8_atlas"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy, ffmpeg), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15p_make_v029_prop_textures.py",
+        "script_version": "0.2.9"
+      },
+      "build": {
+        "script": "source/scripts/gs_15p_make_v029_prop_textures.py",
+        "params": {
+          "size": [
+            512,
+            256
+          ],
+          "format": "DXT1",
+          "operations": "crops"
+        }
+      },
+      "added": "2026-11-02"
+    },
+    {
+      "id": "lp.tex.lp_wood_walnut_512",
+      "path": "source/textures/v029/lp_wood_walnut_512.dds",
+      "sha256": "521e2f39cb7a0a0a009558922d482bfdeff87476e9cceaa6cb4fbf97d51d04a1",
+      "bytes": 174888,
+      "origin": "DERIVED_OWN",
+      "derived_from": [
+        "lp.tex.lp_wood_walnut"
+      ],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy, ffmpeg), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15p_make_v029_prop_textures.py",
+        "script_version": "0.2.9"
+      },
+      "build": {
+        "script": "source/scripts/gs_15p_make_v029_prop_textures.py",
+        "params": {
+          "size": [
+            512,
+            512
+          ],
+          "format": "DXT1",
+          "operations": "resize"
+        }
+      },
+      "added": "2026-11-02"
+    },
+    {
+      "id": "lp.snd.lp_bell",
+      "path": "source/fivem/gabagool_sons_mlo/html/sfx/lp_bell.ogg",
+      "sha256": "0288dee8f2853ddabac3af51272c07508a4adff4edbe8cb4c37ff87aa4ccc0ff",
+      "bytes": 10021,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy, ffmpeg), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "script_version": "0.2.9"
+      },
+      "build": {
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "params": {
+          "format": "ogg vorbis q4, mono 44.1 kHz",
+          "content": "numpy/scipy synthesis"
+        }
+      },
+      "added": "2026-11-02"
+    },
+    {
+      "id": "lp.snd.lp_printer",
+      "path": "source/fivem/gabagool_sons_mlo/html/sfx/lp_printer.ogg",
+      "sha256": "b88caf2407ff540173dfc994e2d8a93ba1878e20e0f214753f990f72fa1d0bfd",
+      "bytes": 18473,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy, ffmpeg), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "script_version": "0.2.9"
+      },
+      "build": {
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "params": {
+          "format": "ogg vorbis q4, mono 44.1 kHz",
+          "content": "numpy/scipy synthesis"
+        }
+      },
+      "added": "2026-11-02"
+    },
+    {
+      "id": "lp.snd.lp_hood",
+      "path": "source/fivem/gabagool_sons_mlo/html/sfx/lp_hood.ogg",
+      "sha256": "6237f84105e40b009ccc6b5531b7f4f4dd45b808d0dfa2049f636e6537af667a",
+      "bytes": 39451,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy, ffmpeg), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "script_version": "0.2.9"
+      },
+      "build": {
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "params": {
+          "format": "ogg vorbis q4, mono 44.1 kHz",
+          "content": "numpy/scipy synthesis"
+        }
+      },
+      "added": "2026-11-02"
+    },
+    {
+      "id": "lp.snd.lp_switch",
+      "path": "source/fivem/gabagool_sons_mlo/html/sfx/lp_switch.ogg",
+      "sha256": "bb003de08940074617c2a9ee6ebcf17969d1ccfc3c064335b80b7f51e0ab7c7b",
+      "bytes": 4712,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy, ffmpeg), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "script_version": "0.2.9"
+      },
+      "build": {
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "params": {
+          "format": "ogg vorbis q4, mono 44.1 kHz",
+          "content": "numpy/scipy synthesis"
+        }
+      },
+      "added": "2026-11-02"
+    },
+    {
+      "id": "lp.snd.lp_creak",
+      "path": "source/fivem/gabagool_sons_mlo/html/sfx/lp_creak.ogg",
+      "sha256": "c8770edc13152e90744da5b9f47cd7ce4d3e7ac43a448eaf469a7006cc003e74",
+      "bytes": 12944,
+      "origin": "ORIGINAL",
+      "derived_from": [],
+      "own": {
+        "author": "Pryir / Claude",
+        "tool": "Python (Pillow, numpy, scipy, ffmpeg), gs_dds, DejaVu fonts",
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "script_version": "0.2.9"
+      },
+      "build": {
+        "script": "source/scripts/gs_15o_make_rest_audio.py",
+        "params": {
+          "format": "ogg vorbis q4, mono 44.1 kHz",
+          "content": "numpy/scipy synthesis"
+        }
+      },
+      "added": "2026-11-02"
+    }
+  ],
+  "vanilla_prop_allowlist": [
+    {
+      "archetype": "v_ilev_csr_door_l",
+      "use": "D1 entrance leaf (left)",
+      "source_rpf": "x64c.rpf/levels/gta5/interiors/int_props/int_lev_des.rpf",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_ilev_csr_door_r",
+      "use": "D1 entrance leaf (right)",
+      "source_rpf": "x64c.rpf/levels/gta5/interiors/int_props/int_lev_des.rpf",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_map_door_01",
+      "use": "D2 and D3 back doors (D3 since 0.1.6, replaced prop_sc1_12_door at the user's request)",
+      "source_rpf": "x64c.rpf/levels/gta5/props/lev_des/v_lev_doors.rpf",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "bkr_prop_biker_ceiling_fan_base",
+      "use": "v0.2.1 hero build, 2 placement(s) by archetype name | v0.2.1: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "bkr_prop_biker_pendant_light",
+      "use": "v0.2.1 hero build, 2 placement(s) by archetype name | v0.2.1: 2 placement(s) | v0.2.3: 5 placement(s) | v0.2.5: 5 placement(s) | v0.2.6: REMOVED (v0.2.6 §4.1 hanging dome pendants -> recessed troffers)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "ch_chint02_picture_light",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (LP-012 gallery picture light) | v0.2.6: REMOVED (LP-012 gallery picture light)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "lr_prop_clubstool_01",
+      "use": "v0.2.1 hero build, 3 placement(s) by archetype name | v0.2.1: 3 placement(s) | v0.2.3: 3 placement(s) | v0.2.5: 3 placement(s) | v0.2.6: 3 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_bar_napkindisp",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 10 placement(s) | v0.2.5: 8 placement(s) | v0.2.6: 8 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_cleaver",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_coffee_mac_02",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_drink_redwine",
+      "use": "v0.2.1 hero build, 2 placement(s) by archetype name | v0.2.1: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_food_napkin_01",
+      "use": "v0.2.1 hero build, 2 placement(s) by archetype name | v0.2.1: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_food_sugarjar",
+      "use": "v0.2.1 hero build, 4 placement(s) by archetype name | v0.2.1: 4 placement(s) | v0.2.3: 7 placement(s) | v0.2.5: 5 placement(s) | v0.2.6: 5 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_game_clock_01",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_knife_stand",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_metalfoodjar_01",
+      "use": "v0.2.1 hero build, 2 placement(s) by archetype name | v0.2.1: 2 placement(s) | v0.2.3: 2 placement(s) | v0.2.5: 2 placement(s) | v0.2.6: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_plant_int_01a",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_till_01",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_wine_bot_01",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_wine_glass",
+      "use": "v0.2.1 hero build, 2 placement(s) by archetype name | v0.2.1: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_wine_red",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_19_vanmenuplain",
+      "use": "v0.2.1 hero build, 2 placement(s) by archetype name | v0.2.1: 2 placement(s) | v0.2.3: 2 placement(s) | v0.2.5: REMOVED (LP-007 chalk menus -> letterboards) | v0.2.6: REMOVED (LP-007 chalk menus -> letterboards)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_med_wallpicture1",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (LP-011 anonymous print) | v0.2.6: REMOVED (LP-011 anonymous print)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_res_fa_bread01",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_res_fa_bread02",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_res_fa_chopbrd",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_res_foodjara",
+      "use": "v0.2.1 hero build, 3 placement(s) by archetype name | v0.2.1: 3 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_ret_fh_plate1",
+      "use": "v0.2.1 hero build, 4 placement(s) by archetype name | v0.2.1: 4 placement(s) | v0.2.3: 3 placement(s) | v0.2.5: 3 placement(s) | v0.2.6: 3 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_ret_fh_walllighton",
+      "use": "v0.2.1 hero build, 2 placement(s) by archetype name | v0.2.1: 2 placement(s) | v0.2.3: 2 placement(s) | v0.2.5: REMOVED (P0 LP-004 candle sconces) | v0.2.6: REMOVED (P0 LP-004 candle sconces)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "v_ret_ml_scale",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.1: 1 placement(s) | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "winerow",
+      "use": "v0.2.1 hero build, 3 placement(s) by archetype name | v0.2.1: 3 placement(s) | v0.2.3: 3 placement(s) | v0.2.5: 3 placement(s) | v0.2.6: 3 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "ch_prop_vault_painting_01e",
+      "use": "v0.2.1 hero build, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (LP-012 gallery art) | v0.2.6: REMOVED (LP-012 gallery art)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "ch_prop_vault_painting_01a",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (LP-012 gallery art) | v0.2.6: REMOVED (LP-012 gallery art)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "ch_prop_vault_painting_01c",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (LP-012 gallery art) | v0.2.6: REMOVED (LP-012 gallery art)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_atm_01",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (P0 LP-001 ATM) | v0.2.6: REMOVED (P0 LP-001 ATM)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_bar_stool_01",
+      "use": "v0.2.3 90s lobby, 3 placement(s) by archetype name | v0.2.3: 3 placement(s) | v0.2.5: 3 placement(s) | v0.2.6: 3 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_beer_neon_02",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (P0 LP-005 glass neon (gun / beer)) | v0.2.6: REMOVED (P0 LP-005 glass neon (gun / beer))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_beer_neon_03",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (P0 LP-005 glass neon (beer)) | v0.2.6: REMOVED (P0 LP-005 glass neon (beer))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_beer_neon_04",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (P0 LP-005 glass neon (logger)) | v0.2.6: REMOVED (P0 LP-005 glass neon (logger))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_bread_rack_02",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_cs_paper_cup",
+      "use": "v0.2.3 90s lobby, 3 placement(s) by archetype name | v0.2.3: 6 placement(s) | v0.2.5: 17 placement(s) | v0.2.6: 17 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_fire_exting_1a",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_food_ketchup",
+      "use": "v0.2.3 90s lobby, 6 placement(s) by archetype name | v0.2.3: 6 placement(s) | v0.2.5: 7 placement(s) | v0.2.6: 7 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_food_mustard",
+      "use": "v0.2.3 90s lobby, 5 placement(s) by archetype name | v0.2.3: 5 placement(s) | v0.2.5: 4 placement(s) | v0.2.6: 4 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_paper_bag_01",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_paper_bag_small",
+      "use": "v0.2.3 90s lobby, 2 placement(s) by archetype name | v0.2.3: 2 placement(s) | v0.2.5: 5 placement(s) | v0.2.6: 5 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_01",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_02",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_05",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_07",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_radio_01",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_ilev_fib_sprklr",
+      "use": "v0.2.3 90s lobby, 9 placement(s) by archetype name | v0.2.3: 10 placement(s) | v0.2.5: 9 placement(s) | v0.2.6: 9 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_med_wallpicture2",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (LP-011 anonymous print) | v0.2.6: REMOVED (LP-011 anonymous print)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_res_fa_smokealarm",
+      "use": "v0.2.3 90s lobby, 2 placement(s) by archetype name | v0.2.3: 2 placement(s) | v0.2.5: 2 placement(s) | v0.2.6: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_res_foodjarb",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 2 placement(s) | v0.2.6: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_res_foodjarc",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 2 placement(s) | v0.2.6: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_res_mmug",
+      "use": "v0.2.3 90s lobby, 2 placement(s) by archetype name | v0.2.3: 4 placement(s) | v0.2.5: 3 placement(s) | v0.2.6: 3 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_res_mp_ashtraya",
+      "use": "v0.2.3 90s lobby, 5 placement(s) by archetype name | v0.2.3: 8 placement(s) | v0.2.5: 6 placement(s) | v0.2.6: 6 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_res_rubberplant",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (P0 LP-003 big plant) | v0.2.6: REMOVED (P0 LP-003 big plant)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_res_tre_plugsocket",
+      "use": "v0.2.3 90s lobby, 2 placement(s) by archetype name | v0.2.3: 2 placement(s) | v0.2.5: 2 placement(s) | v0.2.6: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_res_tt_platepile",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 1 placement(s) | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_ret_gc_chair02",
+      "use": "v0.2.3 90s lobby, 4 placement(s) by archetype name | v0.2.3: 4 placement(s) | v0.2.5: 4 placement(s) | v0.2.6: 4 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_ret_gc_clock",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: 3 placement(s) | v0.2.6: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_ret_gc_cup",
+      "use": "v0.2.3 90s lobby, 4 placement(s) by archetype name | v0.2.3: 6 placement(s) | v0.2.5: 2 placement(s) | v0.2.6: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_ret_ml_fridge02",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.3: 1 placement(s) | v0.2.5: REMOVED (P0 LP-002 yellow drinks fridge) | v0.2.6: REMOVED (P0 LP-002 yellow drinks fridge)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_gumball_01",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.5: REMOVED (P0 LP-006 moved outside) | v0.2.6: REMOVED (P0 LP-006 moved outside)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_gumball_02",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.5: REMOVED (P0 LP-006 moved outside) | v0.2.6: REMOVED (P0 LP-006 moved outside)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_jukebox_02",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.5: REMOVED (LP-020 jukebox) | v0.2.6: REMOVED (LP-020 jukebox)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_plant_int_01b",
+      "use": "v0.2.3 90s lobby, 1 placement(s) by archetype name | v0.2.5: REMOVED (P0 LP-003 big plant) | v0.2.6: REMOVED (P0 LP-003 big plant)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_props_v023.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "bkr_prop_clubhouse_chair_01",
+      "use": "v0.2.5 style reset, 2 placement(s) by archetype name | v0.2.6: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "hei_heist_din_chair_03",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_beer_box_01",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_cs_photoframe_01",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_food_napkin_02",
+      "use": "v0.2.5 style reset, 4 placement(s) by archetype name | v0.2.6: 4 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_food_tray_01",
+      "use": "v0.2.5 style reset, 5 placement(s) by archetype name | v0.2.6: 5 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_01_sm",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_03",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_03_sm",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_04",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_05_sm",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_06",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_06_sm",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_08",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_ped_pic_08_sm",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: REMOVED (v0.2.6 §8 black-and-white mugshot-style portraits removed (not reinstalled under other names))",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_med_cor_walllight",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_res_tt_can03",
+      "use": "v0.2.5 style reset, 8 placement(s) by archetype name | v0.2.6: 8 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_ret_fh_chair01",
+      "use": "v0.2.5 style reset, 2 placement(s) by archetype name | v0.2.6: 2 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_ret_gc_box2",
+      "use": "v0.2.5 style reset, 4 placement(s) by archetype name | v0.2.6: 4 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "v_ret_ml_6bottles",
+      "use": "v0.2.5 style reset, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-01"
+    },
+    {
+      "archetype": "prop_notepad_02",
+      "use": "v0.2.6 refine, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_plant_int_04a",
+      "use": "v0.2.6 refine, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_tool_broom",
+      "use": "v0.2.6 refine, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_cs_spray",
+      "use": "v0.2.6 refine, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ret_gc_pen1",
+      "use": "v0.2.6 refine, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_serv_bktmop_h",
+      "use": "v0.2.6 refine, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_serv_switch_2",
+      "use": "v0.2.6 refine, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_serv_wetfloorsn",
+      "use": "v0.2.6 refine, 1 placement(s) by archetype name | v0.2.6: 1 placement(s)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_catalogue_v021.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "ng_proc_cigbuts01a",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "ng_proc_cigbuts02a",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "ng_proc_paper_01a",
+      "use": "v0.2.9 premium pass, 3 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "ng_proc_paper_03a",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "ng_proc_sodacan_01a",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "ng_proc_sodacan_02a",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "ng_proc_sodacan_02b",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "ng_proc_sodacan_03a",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_bin_07a",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_boxpile_01a",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_cardbordbox_02a",
+      "use": "v0.2.9 premium pass, 4 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_cardbordbox_03a",
+      "use": "v0.2.9 premium pass, 3 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_cd_folder_pile1",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_coathook_01",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_cooker_03",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_cs_bin_02",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_cs_documents_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_cs_trolley_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_detergent_01a",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_detergent_01b",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_ff_shelves_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_ff_sink_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_ff_sink_02",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_fib_clipboard",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_food_bin_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_food_bin_02",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_food_tray_03",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_fridge_01",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_fridge_03",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_fruit_plas_crate_01",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_griddle_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_handdry_01",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_inout_tray_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_keyboard_01a",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_kitch_pot_fry",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_kitch_pot_huge",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_kitch_pot_lrg",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_kitch_pot_lrg2",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_kitch_pot_med",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_ladel",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_micro_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_monitor_03b",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_office_desk_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_office_phone_tnt",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_paper_box_01",
+      "use": "v0.2.9 premium pass, 6 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_pizza_box_02",
+      "use": "v0.2.9 premium pass, 8 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_sacktruck_02a",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_shelves_01",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_shelves_02",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_sink_06",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_soap_disp_01",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_toilet_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_toilet_brush_01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_toilet_roll_02",
+      "use": "v0.2.9 premium pass, 3 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "prop_tv_01",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_club_roc_jacket1",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_club_roc_jacket2",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ilev_cor_firedoor",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (door)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ilev_ra_door3",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (door)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ilev_roc_door1_l",
+      "use": "v0.2.9 premium pass, 3 placement(s) by archetype name (door)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ilev_sol_off_door01",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (door)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_cf_crate2",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_cf_shelf",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_cfbottle",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_cfbox",
+      "use": "v0.2.9 premium pass, 5 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_cfbox2",
+      "use": "v0.2.9 premium pass, 4 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_cs_bottle",
+      "use": "v0.2.9 premium pass, 8 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_cs_tray01",
+      "use": "v0.2.9 premium pass, 6 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_cs_tray02",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_rc_plaztray",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ind_tor_clockincard",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_med_cor_filingcab",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_desklamp",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_fa_chair01",
+      "use": "v0.2.9 premium pass, 3 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_m_pot1",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_tre_officechair",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_tt_can01",
+      "use": "v0.2.9 premium pass, 4 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_tt_can02",
+      "use": "v0.2.9 premium pass, 4 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_tt_litter1",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_tt_litter2",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_tt_litter3",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_tt_pot01",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_tt_pot02",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_res_tt_pot03",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ret_247_flour",
+      "use": "v0.2.9 premium pass, 9 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ret_csr_bin",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_ret_ta_spray",
+      "use": "v0.2.9 premium pass, 2 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    },
+    {
+      "archetype": "v_serv_metro_walllightcage",
+      "use": "v0.2.9 premium pass, 1 placement(s) by archetype name (prop)",
+      "source_rpf": "game archive (see docs/_raw/vanilla_preview_v029.json)",
+      "shipped": false,
+      "added": "2026-11-02"
+    }
+  ],
+  "vanilla_model_hides": [
+    {
+      "archetype": "prop_weeddry_nxg02b",
+      "world": [
+        422.234,
+        -1906.012,
+        24.65
+      ],
+      "why": "vanilla weed behind the NE wall pokes into the shop",
+      "how": "CreateModelHide r=0.75 in client/world.lua (client-side, nothing shipped)",
+      "added": "2026-10-30"
+    },
+    {
+      "archetype": "prop_weeddry_nxg01",
+      "world": [
+        428.208,
+        -1912.087,
+        24.586
+      ],
+      "why": "vanilla weed behind the NE wall pokes into the shop",
+      "how": "CreateModelHide r=0.75 in client/world.lua (client-side, nothing shipped)",
+      "added": "2026-10-30"
+    }
+  ]
+}

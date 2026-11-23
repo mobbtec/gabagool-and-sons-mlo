@@ -1,0 +1,95 @@
+{
+ "lp9_boh_plaster": {
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "DXT1",
+  "sha256": "5627fc7a5951dd0d6ac8ff07b123e4d41e661e799033c09792d86c94849ab499",
+  "derived_from": "painted_plaster_wall_diff_2k.jpg",
+  "source": "https://polyhaven.com/a/painted_plaster_wall",
+  "licence": "CC0 1.0 (Poly Haven)",
+  "physical_m": 2.0,
+  "colour_gain": [
+   1.147,
+   1.161,
+   1.102
+  ]
+ },
+ "lp9_boh_plaster_n": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "966707fc1e521192d22ddfd357505b6cfe69b3f25cd14808cf9bc7ccf630ca71",
+  "derived_from": "painted_plaster_wall_nor_dx_2k.jpg",
+  "source": "https://polyhaven.com/a/painted_plaster_wall",
+  "licence": "CC0 1.0 (Poly Haven)"
+ },
+ "lp9_boh_plaster_s": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "49acf17e1c7e90b9924c91501f2a600ba15443ffa1a0c6d80a2ea97915130303",
+  "derived_from": "painted_plaster_wall_rough_2k.jpg",
+  "source": "https://polyhaven.com/a/painted_plaster_wall",
+  "licence": "CC0 1.0 (Poly Haven)"
+ },
+ "lp9_boh_leaks": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT5",
+  "sha256": "5ecbc96dfe64c58f093bee58af604581297155547357047cce94a5668ef42edd",
+  "derived_from": "Leaking002/006/008_1K-PNG (Color + Opacity)",
+  "source": "https://ambientcg.com/view?id=Leaking002 | Leaking006 | Leaking008",
+  "licence": "CC0 1.0 (ambientCG)",
+  "regions_px": {
+   "A": [
+    0,
+    0,
+    512,
+    512
+   ],
+   "A2": [
+    512,
+    0,
+    1024,
+    512
+   ],
+   "B": [
+    0,
+    512,
+    128,
+    1024
+   ],
+   "C": [
+    128,
+    512,
+    1024,
+    768
+   ],
+   "D": [
+    128,
+    768,
+    1024,
+    1024
+   ]
+  }
+ },
+ "lp9_ceil_tile1": {
+  "size": [
+   256,
+   256
+  ],
+  "format": "DXT1",
+  "sha256": "9e96b18079df0060007ff4bd3aa6b858a628c35114ec4b33288163b214da1267",
+  "derived_from": "v026/lp5_ceiling_tile.dds cell (3, 2)",
+  "source": "own texture (derivative of OfficeCeiling003, CC0)",
+  "licence": "CC0 1.0 / own"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "swatch_rgb": [
+  116,
+  70,
+  57
+ ],
+ "sources": {
+  "PaintedPlaster017": {
+   "url": "https://ambientcg.com/a/PaintedPlaster017",
+   "file": "PaintedPlaster017_1K-JPG.zip",
+   "licence": "CC0 1.0",
+   "sha256": "bae0380d82b6ccac8943b4980417cb3c9de5c896218339c108056f1dfb8e886c"
+  }
+ },
+ "files": {
+  "lp28_wall": {
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "bytes": 699176,
+   "sha256": "c961df41d7fd73f05e3cc572b6c35315f31f788da2ec84cdb6dfef101792a32e",
+   "from": "PaintedPlaster017"
+  },
+  "lp28_wall_n": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "d45c458f18c1ec3cb3e2c9921898dae7e7dea33f6a2b3015feeda9ebb5f8735a",
+   "from": "PaintedPlaster017"
+  },
+  "lp28_wall_s": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 174888,
+   "sha256": "468d52248f2dacd6a417fa7a3c7ef325b46baf22e72dfc95f5036add4bffef71",
+   "from": "own procedural"
+  },
+  "lp28_peg": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "4778261acb0c941577a5d05d70343165fd73b30e506eeb28cea1f07fdb533153",
+   "from": "own procedural"
+  },
+  "lp28_peg_n": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "03c7e7bfe038794418c28649001be1024eff317edfd239522567ca3eab286253",
+   "from": "own procedural"
+  },
+  "lp28_peg_s": {
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "bytes": 43816,
+   "sha256": "686e6418c7297139ade424ef4fd738036927812341f368810e03e4452b358511",
+   "from": "own procedural"
+  },
+  "lp28_heads": {
+   "size": [
+    1024,
+    512
+   ],
+   "format": "DXT1",
+   "bytes": 349648,
+   "sha256": "2a7bdd47774b11ff20f8df6857e1d5a92b86b89082b8feff9ded540b49da3a91",
+   "from": "own procedural"
+  }
+ },
+ "date": "2026-11-21"
+}

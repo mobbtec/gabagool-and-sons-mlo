@@ -1,0 +1,358 @@
+{
+ "script": "source/scripts/gs_14_make_slice_textures.py",
+ "version": "0.2.0",
+ "textures": [
+  {
+   "name": "lp_floor_checker",
+   "role": "diffuse",
+   "size": 2048,
+   "format": "DXT1",
+   "dds_bytes": 2796328,
+   "dds_sha256": "0f55ea9a81d2a509c09d641467b8b01be256382b4294abbb4c95e318d5babade",
+   "derived_from": [
+    "Tiles139_2K-JPG.zip:Tiles139_2K-JPG_Color.jpg",
+    "Tiles139_2K-JPG.zip:Tiles139_2K-JPG_Displacement.jpg"
+   ],
+   "operations": "checker recolour of the 6x6 tiles (parity from the measured grout grid), cream #D9CAAB / brown #6A4630, grout #8E8577",
+   "mips": 10
+  },
+  {
+   "name": "lp_floor_checker_n",
+   "role": "normal",
+   "size": 1024,
+   "format": "DXT1",
+   "dds_bytes": 699176,
+   "dds_sha256": "2753aecaa2083016012bf80cb64e945aa0d12827b768ec5b45e901d4d392458f",
+   "derived_from": [
+    "Tiles139_2K-JPG.zip:Tiles139_2K-JPG_NormalDX.jpg"
+   ],
+   "operations": "resize 1024, bump x0.8",
+   "mips": 9
+  },
+  {
+   "name": "lp_floor_checker_s",
+   "role": "spec",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "19f129d089083de0100452669fd87887d7387b78d5c729eed01d020013b161e2",
+   "derived_from": [
+    "Tiles139_2K-JPG.zip:Tiles139_2K-JPG_Roughness.jpg",
+    "Tiles139_2K-JPG.zip:Tiles139_2K-JPG_Displacement.jpg"
+   ],
+   "operations": "spec = 0.05 + 0.75 (1-rough)^1.5, grout x0.4",
+   "mips": 8
+  },
+  {
+   "name": "lp_wall_plaster",
+   "role": "diffuse",
+   "size": 1024,
+   "format": "DXT1",
+   "dds_bytes": 699176,
+   "dds_sha256": "325c409756ac00618817c9a4a3e94b551968276ca2544cb3976ae829c2cb9851",
+   "derived_from": [
+    "beige_wall_001_diff_2k.jpg"
+   ],
+   "operations": "tint #E2D5BA",
+   "mips": 9
+  },
+  {
+   "name": "lp_wall_plaster_n",
+   "role": "normal",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "9058e2b248f048806f3eaea355b496ac08c800a7c27ad63aa8adf678a011130d",
+   "derived_from": [
+    "beige_wall_001_nor_dx_2k.jpg"
+   ],
+   "operations": "bump x0.6",
+   "mips": 8
+  },
+  {
+   "name": "lp_wall_plaster_s",
+   "role": "spec",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "f19698fff78d93498a76443abb9e33802b2a50306c379dbe97792769abc8dee1",
+   "derived_from": [
+    "beige_wall_001_rough_2k.jpg"
+   ],
+   "operations": "spec 0.02 + 0.18 (1-rough)^1.5",
+   "mips": 8
+  },
+  {
+   "name": "lp_wood_walnut",
+   "role": "diffuse",
+   "size": 1024,
+   "format": "DXT1",
+   "dds_bytes": 699176,
+   "dds_sha256": "ad386f7fcf66b3de7da1d81cf621995b0cc823b3b16a3bffd07dbf1c980e8c9b",
+   "derived_from": [
+    "kitchen_wood_diff_2k.jpg"
+   ],
+   "operations": "tint walnut #4B2F1E, detail x1.25",
+   "mips": 9
+  },
+  {
+   "name": "lp_wood_walnut_n",
+   "role": "normal",
+   "size": 1024,
+   "format": "DXT1",
+   "dds_bytes": 699176,
+   "dds_sha256": "b39b6f116b61bac619790c6529f308adc3d44d2ceb5ba085c216d688bbd72d05",
+   "derived_from": [
+    "kitchen_wood_nor_dx_2k.jpg"
+   ],
+   "operations": "bump x0.7",
+   "mips": 9
+  },
+  {
+   "name": "lp_wood_walnut_s",
+   "role": "spec",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "fc559a35c1b88ba266a425eba563f01a4b98812d4a8b78f0dd99a8516fb79f14",
+   "derived_from": [
+    "kitchen_wood_rough_2k.jpg"
+   ],
+   "operations": "satin: 0.05 + 0.45 (1-rough)^1.5",
+   "mips": 8
+  },
+  {
+   "name": "lp_ceiling_tile",
+   "role": "diffuse",
+   "size": 1024,
+   "format": "DXT1",
+   "dds_bytes": 699176,
+   "dds_sha256": "4b821c95f8d443561b643cb36dbad713848ef6e939e4eb3c7ddc137499b80df3",
+   "derived_from": [
+    "OfficeCeiling003_1K-JPG.zip:OfficeCeiling003_1K-JPG_Color.jpg"
+   ],
+   "operations": "4 light-panel tiles replaced by the neighbouring plain tile, tint #DCD1B8",
+   "mips": 9
+  },
+  {
+   "name": "lp_ceiling_tile_n",
+   "role": "normal",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "d1f0891f9378ec18825b0dc82eb9b6fae985a1503441baa2cab2da2de18e29ac",
+   "derived_from": [
+    "OfficeCeiling003_1K-JPG.zip:OfficeCeiling003_1K-JPG_NormalDX.jpg"
+   ],
+   "operations": "same tile copies",
+   "mips": 8
+  },
+  {
+   "name": "lp_ceiling_tile_s",
+   "role": "spec",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "8c8f689b5acb46bcaf5d99579a7d13c037093695a67a86519bc174310e743abf",
+   "derived_from": [
+    "OfficeCeiling003_1K-JPG.zip:OfficeCeiling003_1K-JPG_Roughness.jpg"
+   ],
+   "operations": "0.10 (1-rough)^1.5",
+   "mips": 8
+  },
+  {
+   "name": "lp_leather_burgundy",
+   "role": "diffuse",
+   "size": 1024,
+   "format": "DXT1",
+   "dds_bytes": 699176,
+   "dds_sha256": "28b4a8159fabc1481b5b02df2d0de4eda68b48e01c58dd89a164f1510ca7d740",
+   "derived_from": [
+    "brown_leather_albedo_2k.jpg"
+   ],
+   "operations": "tint burgundy #5E1A1D",
+   "mips": 9
+  },
+  {
+   "name": "lp_leather_burgundy_n",
+   "role": "normal",
+   "size": 1024,
+   "format": "DXT1",
+   "dds_bytes": 699176,
+   "dds_sha256": "6cbc87c2f04241c036c977dfc8ce06f3c8dda78998ac7c17dfe086e0f1af52ec",
+   "derived_from": [
+    "brown_leather_nor_dx_2k.jpg"
+   ],
+   "operations": "resize",
+   "mips": 9
+  },
+  {
+   "name": "lp_leather_burgundy_s",
+   "role": "spec",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "601c56bdb38c44e17a4f7f26642485039ebd2bf0268b853828d082f9f5fe6183",
+   "derived_from": [
+    "brown_leather_rough_2k.jpg"
+   ],
+   "operations": "0.06 + 0.55 (1-rough)^1.5",
+   "mips": 8
+  },
+  {
+   "name": "lp_terrazzo",
+   "role": "diffuse",
+   "size": 1024,
+   "format": "DXT1",
+   "dds_bytes": 699176,
+   "dds_sha256": "ad7e2fc097ef16fd797213fc798b94f46654c4e4d94217b2a6dec794016da735",
+   "derived_from": [
+    "Terrazzo004_1K-JPG.zip:Terrazzo004_1K-JPG_Color.jpg"
+   ],
+   "operations": "warm tint #CDBFA6",
+   "mips": 9
+  },
+  {
+   "name": "lp_terrazzo_n",
+   "role": "normal",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "9a0e68f7d5dde077fdb2ac2ee3e697001c5f4b994355d7bcafe24e5e5b530150",
+   "derived_from": [
+    "Terrazzo004_1K-JPG.zip:Terrazzo004_1K-JPG_NormalDX.jpg"
+   ],
+   "operations": "bump x0.5 (polished)",
+   "mips": 8
+  },
+  {
+   "name": "lp_terrazzo_s",
+   "role": "spec",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "e127868f333f90e2680eb6706c3fb6f00ba3419d4995cf382263a7df779e30a3",
+   "derived_from": [
+    "Terrazzo004_1K-JPG.zip:Terrazzo004_1K-JPG_Roughness.jpg"
+   ],
+   "operations": "polished 0.15 + 0.85 (1-rough)^1.5",
+   "mips": 8
+  },
+  {
+   "name": "lp_steel",
+   "role": "diffuse",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "2210cb5c79a2631c8bd19df6f81b6f28a003fc1b8735b2e0f0bbeb92f2585db1",
+   "derived_from": [
+    "Metal012_1K-JPG.zip:Metal012_1K-JPG_Color.jpg"
+   ],
+   "operations": "neutral steel #A9ADAE",
+   "mips": 8
+  },
+  {
+   "name": "lp_steel_n",
+   "role": "normal",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "19a51021f8a08d092f4373e7bf3a084606be1289a2bcd4e959623a5b2280db39",
+   "derived_from": [
+    "Metal012_1K-JPG.zip:Metal012_1K-JPG_NormalDX.jpg"
+   ],
+   "operations": "bump x0.5",
+   "mips": 8
+  },
+  {
+   "name": "lp_steel_s",
+   "role": "spec",
+   "size": 512,
+   "format": "DXT1",
+   "dds_bytes": 174888,
+   "dds_sha256": "59b8661756c9785728951a485ee1df2b0db13f78236573c5bbecc443baf2df52",
+   "derived_from": [
+    "Metal012_1K-JPG.zip:Metal012_1K-JPG_Roughness.jpg"
+   ],
+   "operations": "0.25 + (1-rough)^1.5",
+   "mips": 8
+  },
+  {
+   "name": "lp_brass",
+   "role": "diffuse",
+   "size": 64,
+   "format": "DXT1",
+   "dds_bytes": 2856,
+   "dds_sha256": "b23a2bb9042acac301a602b8f5e96e5e03467cb2fd1c66538c78e9a9cafc6a5d",
+   "derived_from": [],
+   "operations": "ORIGINAL flat aged brass #A8834A",
+   "mips": 5
+  },
+  {
+   "name": "lp_brass_s",
+   "role": "spec",
+   "size": 64,
+   "format": "DXT1",
+   "dds_bytes": 2856,
+   "dds_sha256": "1e2bf10c985497e59ed2b318bbaf7513d3313d810e8f6ffd50f4ccbb379284a0",
+   "derived_from": [],
+   "operations": "ORIGINAL",
+   "mips": 5
+  },
+  {
+   "name": "lp_flat_n",
+   "role": "normal",
+   "size": 64,
+   "format": "DXT1",
+   "dds_bytes": 2856,
+   "dds_sha256": "86a8e09bb71649ca7250e9d5d7a440487ac1468ea5b26d46ea5b8a9c8ac1d06b",
+   "derived_from": [],
+   "operations": "ORIGINAL flat",
+   "mips": 5
+  },
+  {
+   "name": "lp_matte_s",
+   "role": "spec",
+   "size": 64,
+   "format": "DXT1",
+   "dds_bytes": 2856,
+   "dds_sha256": "0d9d6852c3ed15d380ad0fb227844f43f196b148f621a0078cfadb4352398c18",
+   "derived_from": [],
+   "operations": "ORIGINAL low spec",
+   "mips": 5
+  },
+  {
+   "name": "lp_glow",
+   "role": "diffuse",
+   "size": 64,
+   "format": "DXT1",
+   "dds_bytes": 2856,
+   "dds_sha256": "538cf11a038097550c014c8c80136173a5352e85bed84ec49b2aea8933a5a81f",
+   "derived_from": [],
+   "operations": "ORIGINAL warm white for emissive bulbs / globes / case light strips",
+   "mips": 5
+  },
+  {
+   "name": "lp_deli_food",
+   "role": "diffuse",
+   "size": 1024,
+   "format": "DXT1",
+   "dds_bytes": 699176,
+   "dds_sha256": "81672ce0e6bda8e7f9cbda7d6fcddbf4416106f6018c3da55c8dd3c4f1671101",
+   "derived_from": [],
+   "operations": "ORIGINAL procedural deli food atlas (4x4 cells of 256 px)",
+   "mips": 9
+  },
+  {
+   "name": "lp_deli_food_s",
+   "role": "spec",
+   "size": 64,
+   "format": "DXT1",
+   "dds_bytes": 2856,
+   "dds_sha256": "b5523deefe80fc908e5d735bda2fe933232713026d854b280e1a7cb0192db935",
+   "derived_from": [],
+   "operations": "ORIGINAL moist spec",
+   "mips": 5
+  }
+ ]
+}

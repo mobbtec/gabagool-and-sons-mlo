@@ -1,0 +1,44 @@
+{
+  "gs_ah_open.ydr": {
+    "slots_before": 3,
+    "slots_after": 2,
+    "textures_removed": [],
+    "gpu_before": 524288,
+    "gpu_after": 524288,
+    "bytes_before": 204119,
+    "bytes_after": 204063
+  },
+  "gs_boh.ydr": {
+    "slots_before": 18,
+    "slots_after": 17,
+    "textures_removed": [
+      "lp4_notices"
+    ],
+    "gpu_before": 10485760,
+    "gpu_after": 10223616,
+    "bytes_before": 4136478,
+    "bytes_after": 4040659
+  },
+  "gs_v021_hall.ydr": {
+    "slots_before": 44,
+    "slots_after": 26,
+    "textures_removed": [
+      "lp20_panel_off"
+    ],
+    "gpu_before": 13107200,
+    "gpu_after": 13107200,
+    "bytes_before": 6101004,
+    "bytes_after": 6098456
+  },
+  "gs_v26_market.ydr": {
+    "slots_before": 44,
+    "slots_after": 9,
+    "textures_removed": [
+      "lp20_panel_off"
+    ],
+    "gpu_before": 5242880,
+    "gpu_after": 5242880,
+    "bytes_before": 1107489,
+    "bytes_after": 1106453
+  }
+}

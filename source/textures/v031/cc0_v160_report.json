@@ -1,0 +1,12 @@
+{
+ "lp16_tile_green": {
+  "sha256": "5914202cef9ad830240fbda0d288de335da6174f6ec94b331d907f252fe855c1",
+  "derived_from": "Tiles136B (colour grade)",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp16_tile_red": {
+  "sha256": "958f1622dd0491ab9031bc122e8e64c31ebd22e6437d75b15365dcc63ee1c103",
+  "derived_from": "Tiles136B (colour grade)",
+  "licence": "CC0 1.0 (ambientCG)"
+ }
+}

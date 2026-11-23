@@ -1,0 +1,51 @@
+{
+ "script": "source/scripts/gs_15o_make_rest_audio.py",
+ "version": "0.2.9-premium",
+ "sounds": [
+  {
+   "name": "lp_bell",
+   "file": "html/sfx/lp_bell.ogg",
+   "seconds": 1.6,
+   "bytes": 10021,
+   "sha256": "0288dee8f2853ddabac3af51272c07508a4adff4edbe8cb4c37ff87aa4ccc0ff",
+   "origin": "original_synthesized",
+   "description": "service bell ding"
+  },
+  {
+   "name": "lp_printer",
+   "file": "html/sfx/lp_printer.ogg",
+   "seconds": 1.9,
+   "bytes": 18473,
+   "sha256": "b88caf2407ff540173dfc994e2d8a93ba1878e20e0f214753f990f72fa1d0bfd",
+   "origin": "original_synthesized",
+   "description": "receipt printer"
+  },
+  {
+   "name": "lp_hood",
+   "file": "html/sfx/lp_hood.ogg",
+   "seconds": 6.0,
+   "bytes": 39451,
+   "sha256": "6237f84105e40b009ccc6b5531b7f4f4dd45b808d0dfa2049f636e6537af667a",
+   "origin": "original_synthesized",
+   "description": "kitchen hood fan loop"
+  },
+  {
+   "name": "lp_switch",
+   "file": "html/sfx/lp_switch.ogg",
+   "seconds": 0.25,
+   "bytes": 4712,
+   "sha256": "bb003de08940074617c2a9ee6ebcf17969d1ccfc3c064335b80b7f51e0ab7c7b",
+   "origin": "original_synthesized",
+   "description": "toggle switch"
+  },
+  {
+   "name": "lp_creak",
+   "file": "html/sfx/lp_creak.ogg",
+   "seconds": 1.1,
+   "bytes": 12944,
+   "sha256": "c8770edc13152e90744da5b9f47cd7ce4d3e7ac43a448eaf469a7006cc003e74",
+   "origin": "original_synthesized",
+   "description": "cabinet door creak"
+  }
+ ]
+}

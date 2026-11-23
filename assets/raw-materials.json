@@ -1,0 +1,562 @@
+[
+  {
+    "path": "assets/cc0/_downloads/beige_wall_001_diff_2k.jpg",
+    "bytes": 235868,
+    "sha256": "222d4d2e7d5c425c97e5a66790852388cec7706714d773f769fba6bfe08cea4e"
+  },
+  {
+    "path": "assets/cc0/_downloads/beige_wall_001_nor_dx_2k.jpg",
+    "bytes": 829245,
+    "sha256": "14a0ebe5144e374cb1c46ee3037f1c508ed74835e8057232be9d9ed706f424c8"
+  },
+  {
+    "path": "assets/cc0/_downloads/beige_wall_001_rough_2k.jpg",
+    "bytes": 656368,
+    "sha256": "a76e2307d8ec47d1be1d4710851fc4545db7aecfa176333738a6756358b64767"
+  },
+  {
+    "path": "assets/cc0/_downloads/brown_leather_albedo_2k.jpg",
+    "bytes": 2137518,
+    "sha256": "b0de2403a31efa31e501b0028c0bd8e504d5bd6318f4a5ce90c550c3067f96d8"
+  },
+  {
+    "path": "assets/cc0/_downloads/brown_leather_nor_dx_2k.jpg",
+    "bytes": 3143818,
+    "sha256": "1b12a10da8a5b48ee1e9fb17c65da1811c46077889502a302196d1a588141f1b"
+  },
+  {
+    "path": "assets/cc0/_downloads/brown_leather_rough_2k.jpg",
+    "bytes": 2801956,
+    "sha256": "8a47afca2630310849034fe40ca9497db0956c67c0d933e6efd49d3cd2befe83"
+  },
+  {
+    "path": "assets/cc0/_downloads/concrete_wall_003_diff_2k.jpg",
+    "bytes": 1083378,
+    "sha256": "751ac658d1335d0903f198176253a2cbd06457bbb1f549dc2fa04e4b96f915c3"
+  },
+  {
+    "path": "assets/cc0/_downloads/concrete_wall_003_nor_dx_2k.jpg",
+    "bytes": 978379,
+    "sha256": "703d7e9401d8572d9e6265bc8e4694faca505f0d915bf16fbe16f7a3c8369058"
+  },
+  {
+    "path": "assets/cc0/_downloads/concrete_wall_003_rough_2k.jpg",
+    "bytes": 1043780,
+    "sha256": "54221ff7528b2060745fe62643daa75d32db4064fe99a4c94b5f2e65140bae43"
+  },
+  {
+    "path": "assets/cc0/_downloads/kitchen_wood_diff_2k.jpg",
+    "bytes": 3557700,
+    "sha256": "da11d51f48e4a85959b6c45ac6a6f50e78bc0aac73f094ddbe1040d71633c4e6"
+  },
+  {
+    "path": "assets/cc0/_downloads/kitchen_wood_nor_dx_2k.jpg",
+    "bytes": 2915703,
+    "sha256": "f04d7b68b59541aa3590f8260cc201fb27097e2d550c76875c7b3e1636ec17fd"
+  },
+  {
+    "path": "assets/cc0/_downloads/kitchen_wood_rough_2k.jpg",
+    "bytes": 3520436,
+    "sha256": "1e50a610725aa193a9b2f25daf3892d13121b02d8f290085f9d613d3a8c4a86d"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002.png",
+    "bytes": 210416,
+    "sha256": "cfc7cd1c2316e24a5a4382e3d4e1f35a6740d1c871b8ca887203f0deb2999d52"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG.blend",
+    "bytes": 1109796,
+    "sha256": "6c46aa01a813fe9a051848a9e9726e2bb089dab1518b789f31f7cf46ef87fc68"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG.mtlx",
+    "bytes": 2626,
+    "sha256": "ee1cdb6eb60d6fd49d82de652d153f5247b762b002ba7b80a92d430ecf809293"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG.tres",
+    "bytes": 812,
+    "sha256": "ebfaf5b525cb6fbb9414e76cb96e3f7f481081b51a225ecb4e726c17c205b17f"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG.usdc",
+    "bytes": 3001,
+    "sha256": "c4136245156ecdd095fabd5b6e6b80a7788f24bcd912704ae23a5d999668c120"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG_Color.png",
+    "bytes": 533363,
+    "sha256": "c576aefaf74865a301b9fc7ad7463866a63d82a1f0077123ec6302b988b3c67d"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG_Displacement.png",
+    "bytes": 677321,
+    "sha256": "72c8cc3b895305313e3b9ade0846a869d8a61e284d62b41ae66e0b58f0974b9f"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG_NormalDX.png",
+    "bytes": 2085942,
+    "sha256": "860c998e269a7f75753b2edc9ad6e270d5d4209a5121fb364d418da6148a5a31"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG_NormalGL.png",
+    "bytes": 2085310,
+    "sha256": "f8880c83154d9c516decf60ff1f3f7f1d9209bc6ba6bb0eba153e6c345baf762"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG_Opacity.png",
+    "bytes": 171631,
+    "sha256": "05ef3765889285ede46f0c2e82e2a439651ffde00b561c0c375eb4c439b127f1"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG/Leaking002_1K-PNG_Roughness.png",
+    "bytes": 245340,
+    "sha256": "11fe8d8dce93f1f880928ce16bdb7dfc95dc12e46f20ea4960180366223aaeb1"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking002_1K-PNG.zip",
+    "bytes": 7127536,
+    "sha256": "6845dfc2dcb94910568ef00a1c4660ae872b2e33fac47e136297356faefe9308"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006.png",
+    "bytes": 103015,
+    "sha256": "8077810c72d3a5eac77b5079fe0d83008fab0afa3f2aa0f709196b410fe16b4e"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG.blend",
+    "bytes": 1110004,
+    "sha256": "078d111eb46f5db6a3cbe7f9b98da676a5388c3107c42fc3147d327ff14caf99"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG.mtlx",
+    "bytes": 2626,
+    "sha256": "6a387f4911ef1891c312f42b43a8d5e193d50348ffa14814a75f63ffaa7ad32d"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG.tres",
+    "bytes": 812,
+    "sha256": "4bfcdaef893aa2ace4bcfb99ea66f54239b1915820118de14386afec3a4edaf7"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG.usdc",
+    "bytes": 3015,
+    "sha256": "cc1da2392ad3eb1bcc6c6ae39b4a631d2f7963a164888b9dcfef333555526ff1"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG_Color.png",
+    "bytes": 263848,
+    "sha256": "5fa9a7772fa0ed4c4eb5fd05c725e1def05c01076e70fdf2368e4865a4993e03"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG_Displacement.png",
+    "bytes": 367277,
+    "sha256": "e093baacb35c915ead68bffdd6e510ba1e8e7629cc07895d445446d34905a2cb"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG_NormalDX.png",
+    "bytes": 1118273,
+    "sha256": "ee113b43a5122d9c4e58dc573237c8b550ccac21ba1a51f2acd373390030b57f"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG_NormalGL.png",
+    "bytes": 1118282,
+    "sha256": "4dc753a83d40e463433b512fb27256a650cae3c7a8402a641dafb80ee3f0ac2e"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG_Opacity.png",
+    "bytes": 109365,
+    "sha256": "2a0d214c0761334e5f654f7709daba06a6f8ba70f33e0faa958f45c1d35927e6"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG/Leaking006_1K-PNG_Roughness.png",
+    "bytes": 52753,
+    "sha256": "b8678821050e613640f2d87f37b8cbc3f8b28a7c32c8461c79d76b71b3559160"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking006_1K-PNG.zip",
+    "bytes": 4251358,
+    "sha256": "cc058d0cd6d14edb845cde1de2ad0754f097704e0e85099326f594ce7c95317e"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008.png",
+    "bytes": 208044,
+    "sha256": "d7d217b4fdab5bf516edda9ca264c6a5e02d2293e5d0e90747d1647e9415856c"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG.blend",
+    "bytes": 1108964,
+    "sha256": "6ae2e1aafbd7429ef9cae8262cf9c215c6ca4cc3caaa9b3a3f6977b0a4f938a2"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG.mtlx",
+    "bytes": 2626,
+    "sha256": "e5122c2e50ad5cc30c34f1fb5ef035fc5d588c12a0256a58dc7ced3ed1e8d1f0"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG.tres",
+    "bytes": 812,
+    "sha256": "f2248d35cd548eefceae055755ae58bfcdcef2bde4873b615c9dec63926611f6"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG.usdc",
+    "bytes": 2942,
+    "sha256": "2432e43211a1e7883e15a021aacf9e8177b480753877e4121e3f32a22562451a"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG_Color.png",
+    "bytes": 213442,
+    "sha256": "a5333b6cbe587fccc1c89ffffc77d01c14fc534b2c340103174f05676d71858f"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG_Displacement.png",
+    "bytes": 394842,
+    "sha256": "3bb20acf84609d394dbb82a91d7a3238c6b964e5fd9be0ba2c7ff0126683de5a"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG_NormalDX.png",
+    "bytes": 928986,
+    "sha256": "d76c85a77d8f3838d5053ea34b9942f540fe008db4f663e693874173de253059"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG_NormalGL.png",
+    "bytes": 928174,
+    "sha256": "d8ac78eb8581b901e726c19b42555ba605992901872428cb71fa0c6fddef8b5e"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG_Opacity.png",
+    "bytes": 94579,
+    "sha256": "1271d13063e6c99f6afd7e8911747ff817cd8a9e637fca896546a62a774f8fb2"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG/Leaking008_1K-PNG_Roughness.png",
+    "bytes": 86173,
+    "sha256": "06a67760de7ba57ed1e87144000d5d92947862f436997a4d2a8324dbc0d941ab"
+  },
+  {
+    "path": "assets/cc0/_downloads/Leaking008_1K-PNG.zip",
+    "bytes": 3971694,
+    "sha256": "c0c4e85dba322592d5a29438b25453c983bfa161eb0e165308f87c0d879cc2f0"
+  },
+  {
+    "path": "assets/cc0/_downloads/long_white_tiles_diff_2k.jpg",
+    "bytes": 2439827,
+    "sha256": "476ccb9f93aa78dbf3be31a4de66a7b2a180c199c6ee18381498e3159d40655a"
+  },
+  {
+    "path": "assets/cc0/_downloads/long_white_tiles_nor_dx_2k.jpg",
+    "bytes": 2537830,
+    "sha256": "35074548dca4e4fe503a4419802846a582aef8dc2a7dd062bb845066f30bc24f"
+  },
+  {
+    "path": "assets/cc0/_downloads/long_white_tiles_rough_2k.jpg",
+    "bytes": 2059646,
+    "sha256": "bd5a07527998ec222238d155034b069ae594417bbca6417521298409f612d045"
+  },
+  {
+    "path": "assets/cc0/_downloads/Metal012_1K-JPG.zip",
+    "bytes": 3961854,
+    "sha256": "c4792207f133357c6a6bfb008f6192b8691268fb0a2ca95b45825ac797e5028f"
+  },
+  {
+    "path": "assets/cc0/_downloads/OfficeCeiling003_1K-JPG.zip",
+    "bytes": 7212931,
+    "sha256": "a111ac029d0d4152db15e5dba07391ac96e0a62991d935a52da7cd1bc3f4f890"
+  },
+  {
+    "path": "assets/cc0/_downloads/painted_plaster_wall_diff_2k.jpg",
+    "bytes": 3132937,
+    "sha256": "6fd812ed8dd5be1873c29aeef38ce9bf1fb30a22c6d4b3a12db725e98c26a1be"
+  },
+  {
+    "path": "assets/cc0/_downloads/painted_plaster_wall_nor_dx_2k.jpg",
+    "bytes": 4057940,
+    "sha256": "258ed862e80c033b52171786483cb4be7bf9d6e3e1cb8fc3b8ed15a18d3c58c8"
+  },
+  {
+    "path": "assets/cc0/_downloads/painted_plaster_wall_rough_2k.jpg",
+    "bytes": 1595466,
+    "sha256": "35aad595469533cc3b7cc209cc6c7e065d660211f02c867f4492d3b371b1fee1"
+  },
+  {
+    "path": "assets/cc0/_downloads/PaintedBricks004_1K-JPG.zip",
+    "bytes": 6964286,
+    "sha256": "65c3c8fb7eaf7c1c353f7846e70e55da94698496337ab03014bdd348c498a5b3"
+  },
+  {
+    "path": "assets/cc0/_downloads/PaintedWood003_1K-JPG.zip",
+    "bytes": 7925694,
+    "sha256": "9c6e87a376b45368e419b55ce1d5c1ceadd8db10c83bf72ce140af3b9ebae568"
+  },
+  {
+    "path": "assets/cc0/_downloads/Planks014_1K-JPG.zip",
+    "bytes": 9284689,
+    "sha256": "efb355f21673fcdb49b90d440fa167149c081547028300d1372e2e5bc02a2ad2"
+  },
+  {
+    "path": "assets/cc0/_downloads/terracotta_floor_tiles_diff_2k.jpg",
+    "bytes": 2731407,
+    "sha256": "dd1adc1d35618db8fd58f2d22b51242bc570dc83c23518a1100d3570dfe05559"
+  },
+  {
+    "path": "assets/cc0/_downloads/terracotta_floor_tiles_nor_dx_2k.jpg",
+    "bytes": 2672540,
+    "sha256": "3e77fe2fce14fb2cf6863a3dc192ae926c93a0b7d8680a6ec7319e1e8c8fedff"
+  },
+  {
+    "path": "assets/cc0/_downloads/terracotta_floor_tiles_rough_2k.jpg",
+    "bytes": 2607419,
+    "sha256": "3cf4cc8570a87aec65731d81d07c42c81b18635028ddc42be8de336ec0dda2dd"
+  },
+  {
+    "path": "assets/cc0/_downloads/Terrazzo004_1K-JPG.zip",
+    "bytes": 6719878,
+    "sha256": "fccfebac29c8f0c92905ba32d97fa7d36130fe5834085c9059316c1085be0949"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles010_1K-JPG.zip",
+    "bytes": 4331091,
+    "sha256": "14d87fcd62d10977b5e57778d5271912e0fc3eab702d4ffbc55855e8a84c6280"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles012_1K-JPG.zip",
+    "bytes": 4757223,
+    "sha256": "e9c91c6dbc4aabffaf91a744d1c4a095a40fb774696de64b3afd212136d3666b"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles014_1K-JPG.zip",
+    "bytes": 4687503,
+    "sha256": "9fecfc68cb49766c5d788336fa3354ead3a77b4b3ba0caa84297d534e03cb497"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles095_1K-JPG.zip",
+    "bytes": 8843401,
+    "sha256": "922a781c2588408fb5c580e508ecc087f4b6657bcb22eb715920214e97e1c0cd"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles097_1K-JPG.zip",
+    "bytes": 8852036,
+    "sha256": "426549d0c77d833f7b4a3ce1954d8042e93997fae66e6f6eb5d6e7ed0f018c66"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles133B_1K-JPG.zip",
+    "bytes": 5070458,
+    "sha256": "fc7fc4c684962aeaf2b21f1ff25e02cb25c65e3dbf1c956733cdf76ef49451ee"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles133C_1K-JPG.zip",
+    "bytes": 5423944,
+    "sha256": "25d287c497da0248aa3480ae0fec88601aefbd391428f9a92c575a8031e22d21"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles135B_1K-JPG.zip",
+    "bytes": 5380183,
+    "sha256": "e85ad74e0bbb49dabb4a37e70c9d663f293d4b04ec2c13448d39e53be105d880"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles135C_1K-JPG.zip",
+    "bytes": 5927545,
+    "sha256": "9d599108e6ff9b4d0d880d578b3fc8903a4738e2a01ae0d7009f68638a3db4ee"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles136B_1K-JPG.zip",
+    "bytes": 4989008,
+    "sha256": "f416a92c0ceeb38da8152212e0275f28d885be1c6ed86059d508b314752aaa09"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles139_2K-JPG.zip",
+    "bytes": 16290912,
+    "sha256": "1770717257e7f26e071fc187913eba12c0a3ca00048842de1a2bdf6a4788f34e"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles140_1K-JPG.zip",
+    "bytes": 4882386,
+    "sha256": "6eb73dd78bcfff358f09720242fed543edd9fc6ea3a6c0d4f46ecef59fa08308"
+  },
+  {
+    "path": "assets/cc0/_downloads/Tiles141_1K-JPG.zip",
+    "bytes": 4974199,
+    "sha256": "6ee56eba21592b9c02c6ee78dd93c6b585b62a2558d143d53e19457c82379d52"
+  },
+  {
+    "path": "assets/cc0/_downloads/WoodSiding002_1K-JPG.zip",
+    "bytes": 6894071,
+    "sha256": "4bb02d2f0e525ec6c2193806f533fd03339c541fb133623156873cd8d8cb4e89"
+  },
+  {
+    "path": "assets/cc0/_downloads/WoodSiding005_1K-JPG.zip",
+    "bytes": 6602378,
+    "sha256": "8c12da8c4c77617e5394d77c9f1c87c98fb0d12d7353948104c612dad05dec1a"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009.png",
+    "bytes": 357145,
+    "sha256": "71cb456e39dd9f65ace023a5de7b197b37acbcb0bc8eee7a208de9bc5f621b81"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG.blend",
+    "bytes": 1099412,
+    "sha256": "bb95894a8ad093ba785073f999f4e843936d6f9a936f675e0a69a0bfbfeb82ad"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG.mtlx",
+    "bytes": 2272,
+    "sha256": "18248ae850736dab009519d2a21a4606edc53044f7daed1e49726cfc0406e121"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG.tres",
+    "bytes": 808,
+    "sha256": "046a4a06244ff4c17d0144183407428084d8c56e65639116822cd3c5a3a45e07"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG.usdc",
+    "bytes": 2916,
+    "sha256": "1f39f69989be99b8ed00149000ec244276d6f8f27e5f0cb01a29b30143f73e31"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG.zip",
+    "bytes": 4692354,
+    "sha256": "76c9a0ebdc9615462ea26904886c43f79a8211466f57b3554aa8df2d9193b4c5"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG_Color.jpg",
+    "bytes": 1291823,
+    "sha256": "5d4dba5ae26543e3c5cb1b249bec6c73e56b655fbd6b9452b5bc747883540e85"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG_Displacement.jpg",
+    "bytes": 768152,
+    "sha256": "41139c3ca8c32fe2b119053c661bfd995f8eb5713d436f958cd6624c4a9d9782"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG_NormalDX.jpg",
+    "bytes": 343040,
+    "sha256": "e80587f90c6389d2b3f0ff3216b999046f87f94d2c2a3f80738a22734d01ec23"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG_NormalGL.jpg",
+    "bytes": 342874,
+    "sha256": "5b09d38bffe5463e853e4bdd63def0a3049ca4711c72a91f7643a2af45692582"
+  },
+  {
+    "path": "source/textures/v190/src/Marble009_1K-JPG_Roughness.jpg",
+    "bytes": 481964,
+    "sha256": "c0581c5c7138474b611c9686998f757428c1f9cd958a258204ebd7bdfb444853"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049.png",
+    "bytes": 294018,
+    "sha256": "3ce20cc60953baa259b1de1d8ef893a6cbc0ff3ec1822f1ed5849ef21c855ae7"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG.blend",
+    "bytes": 1098788,
+    "sha256": "97f78ac92c1168fd6a293e1eb142de710181a97aebe31c8edf76361a07d4acdf"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG.mtlx",
+    "bytes": 2242,
+    "sha256": "2e81ef9ea4875c736f42cd49a6c12fc3ff6dd0196f613126fa7002e162f261d0"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG.tres",
+    "bytes": 800,
+    "sha256": "a03da70fdc393121e6c77b7a632cd6060e1f94509c62767898144bbad2bbf63a"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG.usdc",
+    "bytes": 2874,
+    "sha256": "51d14288b3a62075023227ac436a15a486a44d041e3fe7fe35ce28de3fe23a9d"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG.zip",
+    "bytes": 6784006,
+    "sha256": "74ec51bcf5ddfc2e9af6205dc5cbcc90ad51c22117e013ff8b1c7258f8ecbc69"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG_Color.jpg",
+    "bytes": 954756,
+    "sha256": "451ee4dd719628289b4969f75dc583b5f77f8471d5d885ba5015fd90e7e5ce61"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG_Displacement.jpg",
+    "bytes": 599648,
+    "sha256": "3fcb2a67d00a0fff5171d9a42e720765287a80a76a9e80eaf07405ca6ea1c1a2"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG_NormalDX.jpg",
+    "bytes": 1560334,
+    "sha256": "b5afe16b3ca4e0aed0d2c4332738541fccfdffedd07d4e14fba17281b23395fd"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG_NormalGL.jpg",
+    "bytes": 1559595,
+    "sha256": "e9aaec13f9c6199e7ec440433005a8c52a88332f26a3887fc057179089fb747a"
+  },
+  {
+    "path": "source/textures/v190/src/Wood049_1K-JPG_Roughness.jpg",
+    "bytes": 708949,
+    "sha256": "7683f29e71c24b987e4a7dcc74d5a9ed5ab4cac2e145d507799ba9c9c2c4ef54"
+  },
+  {
+    "path": "source/textures/v200/src/Metal009_1K-JPG.zip",
+    "bytes": 4767000,
+    "sha256": "1b1970219b40fe707e7194b28702f1a65b0d227bbea56da69dfbc8d8b5cfcb5e"
+  },
+  {
+    "path": "source/textures/v200/src/PaintedPlaster017_1K-JPG.zip",
+    "bytes": 4721132,
+    "sha256": "bae0380d82b6ccac8943b4980417cb3c9de5c896218339c108056f1dfb8e886c"
+  },
+  {
+    "path": "source/textures/v200/src/Plastic010_1K-JPG.zip",
+    "bytes": 3535012,
+    "sha256": "46a2504dbef278475b85c846713804a36823c7151cb79c90728d5c6eab283a19"
+  },
+  {
+    "path": "source/textures/v200/src/Tiles036_1K-JPG.zip",
+    "bytes": 4420561,
+    "sha256": "247cd994a4376d6bc3136f122f218d0833d597ee43e13147a4c99ddf6615ef14"
+  },
+  {
+    "path": "source/textures/v200/src/Tiles074_1K-JPG.zip",
+    "bytes": 3706371,
+    "sha256": "28a40cb36d3c265f17c798c52aa3ea7cdcb8c949b80c49692b0a855e9637c677"
+  },
+  {
+    "path": "source/textures/v200/src/Tiles078_1K-JPG.zip",
+    "bytes": 4189392,
+    "sha256": "145849a58ab5b82598e094cbef30abe51bcc0e473fa2e697115e25c1a1617829"
+  },
+  {
+    "path": "source/textures/v200/src/Tiles101_1K-JPG.zip",
+    "bytes": 5942649,
+    "sha256": "8f877d511a00b905ae239ada8454d84de097704e8716acd7802150522127a1bf"
+  },
+  {
+    "path": "source/textures/v200/src/Tiles107_1K-JPG.zip",
+    "bytes": 3200991,
+    "sha256": "ec41de6439d087cbd4b88ecd373cf240206715a3b3e022c0d556f9eb677940d0"
+  },
+  {
+    "path": "source/textures/v200/src/Tiles130_1K-JPG.zip",
+    "bytes": 4435000,
+    "sha256": "d9e5a8440b8c46222302aaa91948c2288a3fa0ba5c37e6aa65f940360020ed8a"
+  },
+  {
+    "path": "source/textures/v200/src/Tiles131_1K-JPG.zip",
+    "bytes": 9569683,
+    "sha256": "0a3c3c3a14c3635fbe9a95dda069451d35f99fae6555748a77495dc394f92163"
+  },
+  {
+    "path": "source/textures/v200/src/Tiles132A_1K-JPG.zip",
+    "bytes": 5331847,
+    "sha256": "6e70e35a0df83de344c717eb6cdc7dcc3f38bbefab6e89449cefaff5f38228d1"
+  },
+  {
+    "path": "source/textures/v200/src/Wood058_1K-JPG.zip",
+    "bytes": 7522948,
+    "sha256": "43e63435243943911de3ca6697d35cc1f562c2872c42ca3d630bc052e5f2b6e3"
+  }
+]

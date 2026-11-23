@@ -1,0 +1,177 @@
+{
+  "models": {
+    "gs_ah_closed": 38,
+    "gs_ah_open": 60,
+    "gs_boh": 7828,
+    "gs_proto_glass_w1": 4,
+    "gs_proto_glass_w2": 4,
+    "gs_proto_shell": 2993,
+    "gs_v021_hall": 51698,
+    "gs_v26_market": 1924,
+    "lp_aframe": 8,
+    "lp_blind_slat": 12,
+    "lp_roller": 302,
+    "lp_saloon_leaf": 168,
+    "lp_secret_door": 46,
+    "lp_sign_board": 36,
+    "lp_sign_bracket": 36,
+    "lp_ticket_1": 2,
+    "lp_ticket_2": 2,
+    "lp_ticket_3": 2,
+    "lp_shut_d1_bar": 132,
+    "lp_shut_d1_pnl": 106,
+    "lp_shut_rail_d": 118,
+    "lp_shut_rail_w": 118,
+    "lp_shut_w1_bar": 132,
+    "lp_shut_w1_pnl": 106,
+    "lp_shut_w2_bar": 132,
+    "lp_shut_w2_pnl": 106,
+    "sc1_14_bb_meltdown": 2,
+    "sc1_14_build2": 10278,
+    "sc1_14_grnd_02": 5288,
+    "sc1_14_sc1_emissive_sc1_14b": 44
+  },
+  "entities": 449,
+  "portals": 5,
+  "shelf": {
+    "packs": 70,
+    "rows": [
+      {
+        "bay": 0,
+        "bottom_z": 1.746,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs"
+        ]
+      },
+      {
+        "bay": 0,
+        "bottom_z": 1.995,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs2",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs",
+          "v_ret_ml_cigs"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.246,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.495,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs6",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.744,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 1.993,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      },
+      {
+        "bay": 2,
+        "bottom_z": 2.242,
+        "count": 10,
+        "labels": [
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs3",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs5",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4",
+          "v_ret_ml_cigs4"
+        ]
+      }
+    ],
+    "support_points_checked": 280,
+    "lod_distances_m": [
+      25.0
+    ],
+    "entity_flags": [
+      1572864
+    ],
+    "support_error_mm": [
+      0.023,
+      0.023
+    ],
+    "between_pack_edges_mm": [
+      10.06,
+      42.96,
+      43.06
+    ],
+    "checked_market_triangles": 1924
+  }
+}

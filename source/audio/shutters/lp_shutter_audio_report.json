@@ -1,0 +1,18 @@
+{
+ "script": "source/scripts/gs_15m_make_shutter_audio.py",
+ "origin": "original synthesis (numpy / scipy), no samples",
+ "files": [
+  {
+   "name": "lp_shutter_run.ogg",
+   "seconds": 9.0,
+   "bytes": 79802,
+   "sha256": "17bbd73a20abe387a2cafd1970c01c9f99cd35b057259667db15ed2ab3a7e1df"
+  },
+  {
+   "name": "lp_shutter_stop.ogg",
+   "seconds": 1.2,
+   "bytes": 12536,
+   "sha256": "ce8eda7085eda426762e914420ebc602db43969920135328c50ed97d112c1cca"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+  "lp_billboard": {
+    "size": [
+      1024,
+      512
+    ],
+    "format": "DXT1",
+    "sha256": "a74e81e84a25760ef457c6dc1107431e6903880c485fc7dcd39277b205352b2c",
+    "origin": "AI-generated for the owner with the owner's Higgsfield account (model gpt_image_2_6, text prompt only, no reference image) (long pig, owner's choice), 2026-11-12; resized 1344x752 -> 1024x512",
+    "previous": "lp_billboard_own_v1 (own procedural)",
+    "note": "muted in code 2026-11-12 23:00 (saturation 0.52, brightness 0.74) - owner: oversaturated next to the vanilla sign"
+  },
+  "lp8_atlas": {
+    "size": [
+      1024,
+      512
+    ],
+    "format": "DXT1",
+    "sha256": "f955e5ab2f9c4b90baae999bd073fc29c975a42e8c5d3a34adf2f145df854fe5",
+    "changed_region": "open_neon -> price board (own)"
+  },
+  "lp_sign_hang": {
+    "size": [
+      1024,
+      512
+    ],
+    "format": "DXT1",
+    "sha256": "589becafbf73bc5f47b5d98f2e2207850e11b0e176cb18110c5703466c45698a",
+    "origin": "AI-generated for the owner with the owner's Higgsfield account (gpt_image_2_6, text prompt only), 2026-11-12"
+  },
+  "lp_sign_patio": {
+    "size": [
+      512,
+      1024
+    ],
+    "format": "DXT1",
+    "sha256": "75eeb0ba3a4c99866b654c62ee04f3cf4af9db42e4ea76e65adeebb0b37e889c",
+    "origin": "AI-generated for the owner with the owner's Higgsfield account (gpt_image_2_6, text prompt only), 2026-11-12"
+  },
+  "lp5_wall": {
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "DXT1",
+    "sha256": "5e0808056b6e2540822f39ca96d3fa4d1b929f25cf80dfcf147ca8d9f7149f21",
+    "changed_regions": [
+      "supplier",
+      "photo_counter",
+      "photo_booths",
+      "catering",
+      "certificate",
+      "tin_sign",
+      "hours"
+    ],
+    "origin": "6 regions replaced by images AI-generated for the owner with the owner's Higgsfield account (gpt_image_2_6, text prompts only), 2026-11-12; other regions own procedural (v0.2.6); previous atlas: backups/pre031_20261112/lp5_wall_pre_hf.dds",
+    "note": "supplier region muted in code 2026-11-12 23:00 (owner: too yellow)"
+  },
+  "lp6_atlas": {
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "DXT1",
+    "changed_regions": [
+      "news"
+    ],
+    "origin": "regions replaced by images AI-generated for the owner with the owner's Higgsfield account (gpt_image_2_6, text prompts only), 2026-11-12; other regions own procedural",
+    "sha256": "507473781bcbcde5722464e065fbcf979c262a6ea958d8e4df6670682adf7e89"
+  },
+  "lp4_menu": {
+    "size": [
+      2048,
+      1024
+    ],
+    "format": "DXT1",
+    "sha256": "89cf9d3b591a7787b2bd036688f9528102e9014e2b6bfcf051040eea18d47c98",
+    "origin": "own procedural boards (v0.2.5) restored at the owner's request 2026-11-12 23:00 and aged in code (yellowing, uneven backlight, dust, dark edges); the Higgsfield version is kept as v031/hf_wall/lp4_menu_hf.png, not used"
+  }
+}

@@ -1,0 +1,21 @@
+{
+ "date": "2026-11-21",
+ "files": {
+  "lp25_grime": {
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT5",
+   "bytes": 349648,
+   "sha256": "b5a94744547eb6ed76c4c950d603e450a0c48b85587715c3cbbf84ace72a1f02",
+   "from": "own procedural (gs_15al_v250.py)",
+   "cells": [
+    "smudge",
+    "scuff",
+    "drips",
+    "corner_dust"
+   ]
+  }
+ }
+}

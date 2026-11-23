@@ -1,0 +1,90 @@
+{
+  "version": "3.0.2",
+  "runtime": "Lua 5.4",
+  "compiled": [
+    "client/ambience.lua",
+    "client/blinds.lua",
+    "client/blinds_data.lua",
+    "client/config.lua",
+    "client/debug.lua",
+    "client/doors.lua",
+    "client/exterior.lua",
+    "client/fans.lua",
+    "client/floor.lua",
+    "client/interact.lua",
+    "client/interact_data.lua",
+    "client/night.lua",
+    "client/restaurant.lua",
+    "client/saloon.lua",
+    "client/shutters.lua",
+    "client/shutters_data.lua",
+    "client/signs.lua",
+    "client/street.lua",
+    "client/world.lua",
+    "fxmanifest.lua",
+    "server/blinds.lua",
+    "server/restaurant.lua",
+    "server/shutters.lua",
+    "shared/restaurant_config.lua",
+    "shared/restaurant_data.lua",
+    "shared/shutters_config.lua"
+  ],
+  "fivem_hash_literals_translated": 66,
+  "manifest_references": {
+    "shared_scripts": [
+      "shared/shutters_config.lua",
+      "shared/restaurant_config.lua",
+      "shared/restaurant_data.lua"
+    ],
+    "client_scripts": [
+      "client/config.lua",
+      "client/doors.lua",
+      "client/debug.lua",
+      "client/world.lua",
+      "client/exterior.lua",
+      "client/night.lua",
+      "client/street.lua",
+      "client/fans.lua",
+      "client/blinds_data.lua",
+      "client/blinds.lua",
+      "client/interact_data.lua",
+      "client/interact.lua",
+      "client/signs.lua",
+      "client/ambience.lua",
+      "client/floor.lua",
+      "client/shutters_data.lua",
+      "client/shutters.lua",
+      "client/restaurant.lua"
+    ],
+    "server_scripts": [
+      "server/shutters.lua",
+      "server/blinds.lua",
+      "server/restaurant.lua"
+    ],
+    "ui_page": [
+      "html/shutters.html"
+    ],
+    "files": [
+      "lp_timecycle.xml",
+      "textures/lp5_floor_b.png",
+      "textures/lp5_floor_b_n.png",
+      "html/shutters.html",
+      "html/sfx/lp_shutter_run.ogg",
+      "html/sfx/lp_shutter_stop.ogg",
+      "html/sfx/lp_bell.ogg",
+      "html/sfx/lp_printer.ogg",
+      "html/sfx/lp_hood.ogg",
+      "html/sfx/lp_switch.ogg",
+      "html/sfx/lp_creak.ogg",
+      "html/sfx/lp_drip1.ogg",
+      "html/sfx/lp_drip2.ogg",
+      "html/sfx/lp_drip3.ogg"
+    ],
+    "data_file": [
+      "lp_timecycle.xml",
+      "stream/shutters/lp_shutters.ytyp",
+      "stream/props/lp_props.ytyp"
+    ]
+  },
+  "offline": true
+}

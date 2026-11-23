@@ -1,0 +1,306 @@
+{
+ "script": "source/scripts/gs_15_make_v021_textures.py",
+ "version": "0.2.1",
+ "textures": [
+  {
+   "name": "lp2_walnut",
+   "file": "lp2_walnut.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "4133b889efa0dc526464d301c4db4af88d6bfdb1fd9becc3a6f576fe26626f1e",
+   "derived_from": [
+    "kitchen_wood_diff_2k.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "tint dark walnut #3E2519, detail x1.45"
+  },
+  {
+   "name": "lp2_walnut_n",
+   "file": "lp2_walnut_n.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 699176,
+   "sha256": "d76d32b4eff008cd737d806981c24334eb772a09824b488b68ebf3bdec31527f",
+   "derived_from": [
+    "kitchen_wood_nor_dx_2k.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "bump x0.9"
+  },
+  {
+   "name": "lp2_walnut_s",
+   "file": "lp2_walnut_s.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 174888,
+   "sha256": "d5f030f727f897fcee833ee6e6a2139cb677877397e28eb7c7555f3924e8206e",
+   "derived_from": [
+    "kitchen_wood_rough_2k.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "satin: 0.06 + 0.55 (1-rough)^1.5"
+  },
+  {
+   "name": "lp2_leather",
+   "file": "lp2_leather.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "372550de4ea80763b1143107fac912efe8995a69b687f871eb01a03c304f9f6d",
+   "derived_from": [
+    "brown_leather_albedo_2k.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "tint oxblood #4E1519, detail x1.6, original fBm polish patches"
+  },
+  {
+   "name": "lp2_leather_n",
+   "file": "lp2_leather_n.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 699176,
+   "sha256": "f9f47afc58bf278336ae9f3edac4a3ceb6ba839d982eb97417e68293fc7bd619",
+   "derived_from": [
+    "brown_leather_nor_dx_2k.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "bump x1.3"
+  },
+  {
+   "name": "lp2_leather_s",
+   "file": "lp2_leather_s.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 174888,
+   "sha256": "22dadd076814d78162736247d9e9f8937cc0fbd0d0d794b0eae85b37da0478c2",
+   "derived_from": [
+    "brown_leather_rough_2k.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "0.10 + 0.65 (1-rough)^1.5, modulated by polish patches"
+  },
+  {
+   "name": "lp2_enamel",
+   "file": "lp2_enamel.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 174888,
+   "sha256": "7bd237ee62bddb637a7156eb82c843d0d2df00a69a272c4d445c364639e32fdf",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "procedural cream enamel, fBm tone + fine scratches"
+  },
+  {
+   "name": "lp2_enamel_n",
+   "file": "lp2_enamel_n.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 174888,
+   "sha256": "c3ec67722699a42d647fe2c11c3edaf2e6ab961f954829fb517ae01b7b754254",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "from enamel height"
+  },
+  {
+   "name": "lp2_enamel_s",
+   "file": "lp2_enamel_s.dds",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 43816,
+   "sha256": "f5868f3d91ff890696ddc82513921a21cef9af060f83d2b6fd33f8c8336d2d0b",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "glossy enamel"
+  },
+  {
+   "name": "lp2_iron",
+   "file": "lp2_iron.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 174888,
+   "sha256": "52fc4e86d6eb621d7b7b947ee7cab3a3906a4c2f75252b8c19d41a79c2d48d34",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "procedural cast iron, fBm + faint rust"
+  },
+  {
+   "name": "lp2_iron_n",
+   "file": "lp2_iron_n.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 174888,
+   "sha256": "e0ba506407b1eacbc47f9c57666bd4bd56b5f5c430607290a3c18351d130e126",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "pitting from fBm"
+  },
+  {
+   "name": "lp2_iron_s",
+   "file": "lp2_iron_s.dds",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 43816,
+   "sha256": "629bcab1c73d9cc05e066c998d1a37a06752d15163bab3c89d0dd872a0385be8",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "semi-matte metal"
+  },
+  {
+   "name": "lp2_opal",
+   "file": "lp2_opal.dds",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 43816,
+   "sha256": "df7b8791319e1daaeee91b613f788d53d8454d9d3079b51277540030cec22fc0",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "procedural warm milk-glass gradient (emissive)"
+  },
+  {
+   "name": "lp2_flag",
+   "file": "lp2_flag.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 174888,
+   "sha256": "4ec2bdeac451ebf5d8a869228f9fb709244a0b6ca3cb32ad3ab35f3e1553b408",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "original Italian tricolore (green/white/red, plain), procedural weave + fade"
+  },
+  {
+   "name": "lp2_flag_n",
+   "file": "lp2_flag_n.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 174888,
+   "sha256": "7fd08363ef15699fb5ab528cb483cc33ef3f5a4cf5482f8bcb94bdf012e2734e",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "weave normal"
+  },
+  {
+   "name": "lp2_food",
+   "file": "lp2_food.dds",
+   "size": [
+    2048,
+    2048
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 2796328,
+   "sha256": "f1bc15c9735d87e1b8cf2a4be53827ac69b6a2fd650d12577264bdb089dbe42b",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL procedural deli food atlas 4x4: salami_casing, salami_cut, prosciutto_rind, prosciutto_cut, provolone_wax, cheese_cut, parm_rind, mortadella_cut, olives_green, olives_black, peppers, mozzarella, mortadella_casing, twine, paper, salami_fine_cut"
+  },
+  {
+   "name": "lp2_food_n",
+   "file": "lp2_food_n.dds",
+   "size": [
+    2048,
+    2048
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 2796328,
+   "sha256": "6cfc713e305bad026921b31b43d997dabc0e51022a677aa10a0d3faac9c1bc61",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "from atlas height fields"
+  },
+  {
+   "name": "lp2_food_s",
+   "file": "lp2_food_s.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 699176,
+   "sha256": "48b0e5f326019eb933669861a08c9cf726a26583a2fa6df0ea0ca716bbe1a6a1",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "per-cell gloss"
+  }
+ ],
+ "food_cells": [
+  "salami_casing",
+  "salami_cut",
+  "prosciutto_rind",
+  "prosciutto_cut",
+  "provolone_wax",
+  "cheese_cut",
+  "parm_rind",
+  "mortadella_cut",
+  "olives_green",
+  "olives_black",
+  "peppers",
+  "mozzarella",
+  "mortadella_casing",
+  "twine",
+  "paper",
+  "salami_fine_cut"
+ ]
+}

@@ -1,0 +1,394 @@
+{
+ "script": "source/scripts/gs_15c_make_v023_textures.py",
+ "version": "0.2.3",
+ "textures": [
+  {
+   "name": "lp3_tile_red",
+   "file": "lp3_tile_red.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "257d23542ee78965f565d3f5b23d90168c217bbd0eece2eaf4474b073d218fc2",
+   "derived_from": [
+    "Tiles010_1K-JPG.zip:Tiles010_1K-JPG_Color.jpg",
+    "Tiles010_1K-JPG.zip:Tiles010_1K-JPG_Displacement.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "recolour glaze oxblood #7A1C1A-#94251F, joints light grey (from displacement)"
+  },
+  {
+   "name": "lp3_tile_white",
+   "file": "lp3_tile_white.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "d81602885a8cc067c6ed648002f736c0df18d622f1b02e108d7e957742b989cc",
+   "derived_from": [
+    "Tiles010_1K-JPG.zip:Tiles010_1K-JPG_Color.jpg",
+    "Tiles010_1K-JPG.zip:Tiles010_1K-JPG_Displacement.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "warm white glaze, darker joints (behind the counter)"
+  },
+  {
+   "name": "lp3_tile_n",
+   "file": "lp3_tile_n.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 699176,
+   "sha256": "81b010e09a970317e12614d778d06cda0cc9088ff34a74b024c1233d074780fa",
+   "derived_from": [
+    "Tiles010_1K-JPG.zip:Tiles010_1K-JPG_NormalDX.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "as is"
+  },
+  {
+   "name": "lp3_tile_s",
+   "file": "lp3_tile_s.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 174888,
+   "sha256": "51962bfb64beb0084cb4b9e3d77cda690db65a24599d6f398d980ff0038230c7",
+   "derived_from": [
+    "Tiles010_1K-JPG.zip:Tiles010_1K-JPG_Roughness.jpg",
+    "Tiles010_1K-JPG.zip:Tiles010_1K-JPG_Displacement.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "glossy glaze, matte joints"
+  },
+  {
+   "name": "lp3_paintbrick",
+   "file": "lp3_paintbrick.dds",
+   "size": [
+    2048,
+    2048
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 2796328,
+   "sha256": "7191c80816b16388ba7f11c3ecf52da3e96e1d17425d2099613785a095229283",
+   "derived_from": [
+    "PaintedBricks004_1K-JPG.zip:PaintedBricks004_1K-JPG_Color.jpg",
+    "PaintedBricks004_1K-JPG.zip:PaintedBricks004_1K-JPG_AmbientOcclusion.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "cream paint from AO, original grime fBm, 2x2 repeat (2 m)"
+  },
+  {
+   "name": "lp3_paintbrick_n",
+   "file": "lp3_paintbrick_n.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 699176,
+   "sha256": "c7d7f424eac46ac163d89ac2c21571c43245395cfefde029bd9d3062760a921a",
+   "derived_from": [
+    "PaintedBricks004_1K-JPG.zip:PaintedBricks004_1K-JPG_NormalDX.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "2x2 repeat, bump x1.2"
+  },
+  {
+   "name": "lp3_paintbrick_s",
+   "file": "lp3_paintbrick_s.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 174888,
+   "sha256": "2c2818f62471d2187455e488b485ada4d901a71d646e8de6d8af003ef63f9152",
+   "derived_from": [
+    "PaintedBricks004_1K-JPG.zip:PaintedBricks004_1K-JPG_Roughness.jpg"
+   ],
+   "origin": "derived_cc0",
+   "operations": "eggshell paint"
+  },
+  {
+   "name": "lp3_laminate_red",
+   "file": "lp3_laminate_red.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "61678aa51964d8af8e08c9b6cee3ab2a54a0180aaa3a774a3df7a1c6cbf1e8ee",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "original maroon laminate with fine flecks"
+  },
+  {
+   "name": "lp3_laminate_cream",
+   "file": "lp3_laminate_cream.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "93a9e8fb897429bf008a630744ef512b71b360173bf475f9d5346aff177f9cce",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "original cream speckle laminate with faint boomerang arcs"
+  },
+  {
+   "name": "lp3_laminate_n",
+   "file": "lp3_laminate_n.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 174888,
+   "sha256": "4e60b69f9445f037e6a0063f1b7eab99a7d767b0388a7718160597525c3f6ab7",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "almost flat"
+  },
+  {
+   "name": "lp3_laminate_s",
+   "file": "lp3_laminate_s.dds",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 43816,
+   "sha256": "f88f5f6e1e35fd33213c3a1138f386fd8ce0e6f1b253ea6300b4a728f63d594f",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "semi-gloss laminate"
+  },
+  {
+   "name": "lp3_vinyl_red",
+   "file": "lp3_vinyl_red.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "60d36ac5e32c9900ed8ddeeeacf976020ea357e285a8fb92c51bf71c56a94216",
+   "derived_from": [
+    "source/textures/v021/lp2_leather.png"
+   ],
+   "origin": "derived_cc0",
+   "operations": "recolour of lp2_leather (own CC0-derived) to diner red #A11D1F"
+  },
+  {
+   "name": "lp3_vinyl_s",
+   "file": "lp3_vinyl_s.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 174888,
+   "sha256": "df2897658a551dff83b66ad1854ddf219f57860dee24e41e9f0f96a059acc588",
+   "derived_from": [
+    "source/textures/v021/lp2_leather_s.png"
+   ],
+   "origin": "derived_cc0",
+   "operations": "glossier vinyl"
+  },
+  {
+   "name": "lp3_ceiling_tile",
+   "file": "lp3_ceiling_tile.dds",
+   "size": [
+    2048,
+    2048
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 2796328,
+   "sha256": "59452f18beafaa05096899d71784726ec1ffc5cc67c95a7c668802972a57c269",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "original fissured mineral-fibre tiles, 8x8 per texture, bevelled edges, 2 water stains"
+  },
+  {
+   "name": "lp3_ceiling_tile_n",
+   "file": "lp3_ceiling_tile_n.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 699176,
+   "sha256": "7eaceadd13024238f1c55c8ae911df4608bcc4e4407a8501cfb56d75f01ec9a0",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "fissures + tile bevel"
+  },
+  {
+   "name": "lp3_troffer",
+   "file": "lp3_troffer.dds",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 43816,
+   "sha256": "f0cbc9ce5b3c86eb7a4796e09f83bac8b7830783bc84e01598170aff664dc829",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "original prismatic lens pattern (emissive diffuser)"
+  },
+  {
+   "name": "lp3_rubber",
+   "file": "lp3_rubber.dds",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 43816,
+   "sha256": "499ec8e3c1750d8679be363db835130e9afb96a5a5379c97c55ce0281c8c4831",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "black rubber cove base / mat"
+  },
+  {
+   "name": "lp3_mat",
+   "file": "lp3_mat.dds",
+   "size": [
+    1024,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 349648,
+   "sha256": "db45fecd839ef0cd5975de94ec4fea4ae2522a673eaf9d00ef339684dc3a8a8d",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "original ribbed entry mat with own LONG PIG lettering (DejaVu Sans Bold)"
+  },
+  {
+   "name": "lp3_menu",
+   "file": "lp3_menu.dds",
+   "size": [
+    2048,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 1398224,
+   "sha256": "341c97415739dfcd6a04178595c2196ae2826d0e938f2670e400dbe2555cd9ef",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "original typographic backlit menu boards (fictional items/prices), DejaVu fonts"
+  },
+  {
+   "name": "lp3_decal_grime",
+   "file": "lp3_decal_grime.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT5",
+   "role": "diffuse",
+   "bytes": 349648,
+   "sha256": "a0875c5018862ece8983f8d1a0ea9f448ed5c3f052d576f29bb95f82fdc1fec5",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "original grime: wall-base strip, floor wear blotch, drips"
+  },
+  {
+   "name": "lp3_floor_bw",
+   "file": "lp3_floor_bw.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "18d90189deb57c97b82a51ca3f0a59fd21294af6033b75bd45e0a3a5420dfdfe",
+   "derived_from": [
+    "source/textures/slice/lp_floor_checker.png"
+   ],
+   "origin": "derived_cc0",
+   "operations": "recolour of lp_floor_checker (CC0 Tiles139) to black / white vinyl checker"
+  },
+  {
+   "name": "lp3_food",
+   "file": "lp3_food.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "9d297600497df44d8bb5fb87b7cfd4fc48fa86baa86a2d55e7dc36b59487fad6",
+   "derived_from": [
+    "source/textures/v021/lp2_food.png"
+   ],
+   "origin": "original_procedural",
+   "operations": "streaming copy of our original lp2_food (2048 -> 1024, Lanczos)"
+  },
+  {
+   "name": "lp3_food_n",
+   "file": "lp3_food_n.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 699176,
+   "sha256": "7d0c798c96ec4aa9286cbeed9da6759aed1aa31ecbcd8708b85280a3c4a5af1b",
+   "derived_from": [
+    "source/textures/v021/lp2_food_n.png"
+   ],
+   "origin": "original_procedural",
+   "operations": "streaming copy of our original lp2_food_n (2048 -> 1024, Lanczos, re-normalised)"
+  },
+  {
+   "name": "lp3_rug",
+   "file": "lp3_rug.dds",
+   "size": [
+    1024,
+    256
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 174880,
+   "sha256": "10a12e52dfc744b607f2c62bfdcafed7c669f96c425b990262cfb392fcbd4efd",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL procedural 90s lounge rug (v0.2.4): charcoal wool, muted confetti, red border with diamond chain"
+  }
+ ]
+}

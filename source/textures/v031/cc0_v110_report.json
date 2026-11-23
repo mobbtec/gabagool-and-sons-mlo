@@ -1,0 +1,49 @@
+{
+ "_zip": {
+  "file": "Tiles135C_1K-JPG.zip",
+  "bytes": 5927545,
+  "sha256": "9d599108e6ff9b4d0d880d578b3fc8903a4738e2a01ae0d7009f68638a3db4ee",
+  "source": "https://ambientcg.com/get?file=Tiles135C_1K-JPG.zip",
+  "licence": "CC0 1.0 (ambientCG)",
+  "files": [
+   "Tiles135C_1K-JPG.usdc",
+   "Tiles135C_1K-JPG_AmbientOcclusion.jpg",
+   "Tiles135C_1K-JPG_Color.jpg",
+   "Tiles135C_1K-JPG_Displacement.jpg",
+   "Tiles135C_1K-JPG_NormalDX.jpg",
+   "Tiles135C_1K-JPG_NormalGL.jpg",
+   "Tiles135C_1K-JPG_Roughness.jpg",
+   "Tiles135C_1K-JPG.blend",
+   "Tiles135C_1K-JPG.mtlx",
+   "Tiles135C_1K-JPG.tres",
+   "Tiles135C.png"
+  ]
+ },
+ "lp10_tile_blue": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "78cb74ff2484099cb440155e5db1f768df66cd11e490faca35a318324e503084",
+  "derived_from": "Tiles135C"
+ },
+ "lp10_tile_blue_n": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "64f596b9b7efd3533625da170062bbd1943c44195407f0560e08a4507d110643",
+  "derived_from": "Tiles135C"
+ },
+ "lp10_tile_blue_s": {
+  "size": [
+   256,
+   256
+  ],
+  "format": "DXT1",
+  "sha256": "bca14360253426b51bde04f9115d0552cd1f6ac5a5cef0228e5a139446b3a642",
+  "derived_from": "Tiles135C"
+ }
+}

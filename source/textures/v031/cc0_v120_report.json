@@ -1,0 +1,96 @@
+{
+ "_zips": {
+  "Tiles135B_1K-JPG.zip": {
+   "bytes": 5380183,
+   "sha256": "e85ad74e0bbb49dabb4a37e70c9d663f293d4b04ec2c13448d39e53be105d880"
+  },
+  "Tiles135C_1K-JPG.zip": {
+   "bytes": 5927545,
+   "sha256": "9d599108e6ff9b4d0d880d578b3fc8903a4738e2a01ae0d7009f68638a3db4ee"
+  },
+  "PaintedWood003_1K-JPG.zip": {
+   "bytes": 7925694,
+   "sha256": "9c6e87a376b45368e419b55ce1d5c1ceadd8db10c83bf72ce140af3b9ebae568"
+  }
+ },
+ "lp10_tile_blue": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "572ff587579737cd010bde9bf9c7c0e692065db87d0d4f9887354631fb8d5092",
+  "derived_from": "Tiles135B",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp10_tile_blue_n": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "3b7a68f1d7a531cb0c29e9e6ea8033fda8a973268f72bc0b1aa7a80840896d62",
+  "derived_from": "Tiles135B",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp10_tile_blue_s": {
+  "size": [
+   256,
+   256
+  ],
+  "format": "DXT1",
+  "sha256": "412b7036b8e561218ca98eaee82e28f55df33c61dda1811533665aead4982eeb",
+  "derived_from": "Tiles135B",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp10_tile_dirty_n": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "64f596b9b7efd3533625da170062bbd1943c44195407f0560e08a4507d110643",
+  "derived_from": "Tiles135C",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp10_tile_dirty_s": {
+  "size": [
+   256,
+   256
+  ],
+  "format": "DXT1",
+  "sha256": "bca14360253426b51bde04f9115d0552cd1f6ac5a5cef0228e5a139446b3a642",
+  "derived_from": "Tiles135C",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp11_floor_dmg": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT5",
+  "sha256": "b30fa86a755b9650e4569327d5352b6655f28dc2caf470191ed0335a3585bf69",
+  "derived_from": "Tiles135C",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp11_board": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "3b9432c8d957677d543f9d9354ce02c7a6a410a4718d0c2970902aee14167d60",
+  "derived_from": "PaintedWood003",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp11_board_n": {
+  "size": [
+   256,
+   256
+  ],
+  "format": "DXT1",
+  "sha256": "d56131f3e578ecd958900d267c657439025bb8eba4bd156a63c5884a04fd1fde",
+  "derived_from": "PaintedWood003",
+  "licence": "CC0 1.0 (ambientCG)"
+ }
+}

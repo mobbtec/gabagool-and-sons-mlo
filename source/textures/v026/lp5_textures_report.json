@@ -1,0 +1,250 @@
+{
+ "script": "source/scripts/gs_15i_make_v026_textures.py",
+ "version": "0.2.6",
+ "textures": [
+  {
+   "name": "lp5_floor_bw",
+   "size": [
+    2048,
+    2048
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "derived_from": [
+    "source/textures/v025/lp4_floor_bw.png",
+    "source/textures/v023/lp3_floor_bw.png"
+   ],
+   "origin": "derived_own",
+   "operations": "4 m repeat (2x2 of lp4), desaturated + lowered contrast, 12x12 per-tile variation, replacement tiles, edge dirt on light tiles, dirty grout, grime, scratches",
+   "file": "lp5_floor_bw.dds",
+   "bytes": 2796328,
+   "sha256": "ffc28a44a8c0dcc058ac5b0d4eeae67da5e7313413a34c865c863c81a149f276"
+  },
+  {
+   "name": "lp5_floor_n",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "derived_from": [
+    "source/textures/slice/lp_floor_checker_n.png"
+   ],
+   "origin": "derived_own",
+   "operations": "tiled 2x2 for the 4 m repeat, resized to 1024",
+   "file": "lp5_floor_n.dds",
+   "bytes": 699176,
+   "sha256": "57a515a29b732294367588c045da6cde60627d03a373a62368188186a7d870b6"
+  },
+  {
+   "name": "lp5_floor_s",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "derived_from": [
+    "source/textures/v025/lp4_floor_s.png"
+   ],
+   "origin": "derived_own",
+   "operations": "tiled 2x2 for the 4 m repeat, per-tile sheen variation, 512",
+   "file": "lp5_floor_s.dds",
+   "bytes": 174888,
+   "sha256": "ae7dce1ca490360c8ef850d038c2cde541897a9a5ce014018ca0a009312ae64c"
+  },
+  {
+   "name": "lp5_floor_b",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "PNG (runtime texture)",
+   "role": "diffuse",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL: 24x24 gray-beige quarry tiles per 4 m, tone mix, replacement tiles, dirty grout",
+   "file": "lp5_floor_b.png",
+   "bytes": 587059,
+   "sha256": "5d19c1ce1d906362576891e76cc36341f0b51d43d8be9fb5e87c359f9e6f81fa"
+  },
+  {
+   "name": "lp5_floor_b_n",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "PNG (runtime texture)",
+   "role": "normal",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL: normal from grout height",
+   "file": "lp5_floor_b_n.png",
+   "bytes": 432291,
+   "sha256": "1b0bfe20817d101e2fc8fa4c33b11d66c4196086ad0ab28c3477077b0cf158f0"
+  },
+  {
+   "name": "lp5_ceiling_tile",
+   "size": [
+    2048,
+    2048
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "derived_from": [
+    "source/textures/v023/lp3_ceiling_tile.png"
+   ],
+   "origin": "derived_own",
+   "operations": "yellowed acoustic tile, per-tile tone, no baked replacement tile",
+   "file": "lp5_ceiling_tile.dds",
+   "bytes": 2796328,
+   "sha256": "126235eeb78e073a27d51900131badfbed78d848a4dc760f67f637214130d78c"
+  },
+  {
+   "name": "lp5_troffer",
+   "size": [
+    512,
+    256
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL prismatic lens, 3 tube bands, 4 variants: cool, aged warm, weak (tube out), dirty",
+   "file": "lp5_troffer.dds",
+   "bytes": 87504,
+   "sha256": "c1be8738536aab062af29d7ae1e66bf57e0fbb7dcd0e1610d877ca05a276fa27"
+  },
+  {
+   "name": "lp5_blind",
+   "size": [
+    256,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL PVC vertical blind slats: standard / sun-yellowed / stained + crease / whiter replacement",
+   "file": "lp5_blind.dds",
+   "bytes": 87504,
+   "sha256": "769d7076df9b41004f3890b83f4ba4c8bdd93c78a84d3326de5caeec166a5135"
+  },
+  {
+   "name": "lp5_decal",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT5",
+   "role": "diffuse",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL decals: vent halo, replacement ceiling tile, wall-top grime, sticker residue, frame ghost, anchor holes, hand rub, vinyl edge wear, tile chips, paint patch, mop marks, scuff band, grease patch, small ceiling stain, street grit, cup rings",
+   "file": "lp5_decal.dds",
+   "bytes": 1398224,
+   "sha256": "6a2b85855c1ba30ce6ffc14e5c7d459e7537f44f4cbda81080e4a3c2c33caa62"
+  },
+  {
+   "name": "lp5_wall",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL wall story atlas: fictional supplier poster, 3 photos of our own interior (renders), sponsor plaque, hours card, catering notice, handwritten note, food-handler certificate, generic soda tin sign",
+   "file": "lp5_wall.dds",
+   "bytes": 699176,
+   "sha256": "eaee08f7e872b3c5a4de6d1d326d502ba3ad37bad084ec9ad1cbc4f5b3513eeb"
+  },
+  {
+   "name": "lp5_plaster",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "resized",
+   "derived_from": [
+    "source/textures/slice/lp_wall_plaster.png"
+   ],
+   "origin": "derived_own",
+   "operations": "resized to 512 for the hall memory budget",
+   "file": "lp5_plaster.dds",
+   "bytes": 174888,
+   "sha256": "50ee078db1a8ed284e1ae70fa20156d6ac81481024a7d1953506728cb868d719"
+  },
+  {
+   "name": "lp5_plaster_n",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "role": "resized",
+   "derived_from": [
+    "source/textures/slice/lp_wall_plaster_n.png"
+   ],
+   "origin": "derived_own",
+   "operations": "resized to 256 for the hall memory budget",
+   "file": "lp5_plaster_n.dds",
+   "bytes": 43816,
+   "sha256": "a5e4a3fa43051ea1e306bcf73bc814be18d335a0942233c37a30d0de399d06d4"
+  },
+  {
+   "name": "lp5_plaster_s",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "role": "resized",
+   "derived_from": [
+    "source/textures/slice/lp_wall_plaster_s.png"
+   ],
+   "origin": "derived_own",
+   "operations": "resized to 256 for the hall memory budget",
+   "file": "lp5_plaster_s.dds",
+   "bytes": 43816,
+   "sha256": "559b0bc9659166d5241102f3379aa532cf1fa99090db4846d4ba7378ae413450"
+  },
+  {
+   "name": "lp5_food_s",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "resized",
+   "derived_from": [
+    "source/textures/v021/lp2_food_s.png"
+   ],
+   "origin": "derived_own",
+   "operations": "resized to 512 for the hall memory budget",
+   "file": "lp5_food_s.dds",
+   "bytes": 174888,
+   "sha256": "5af4646d92e624eec918bb8b39389f54339a9f8a9fbab35e40f0b41726941e4f"
+  },
+  {
+   "name": "lp5_leather_n",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "resized",
+   "derived_from": [
+    "source/textures/v021/lp2_leather_n.png"
+   ],
+   "origin": "derived_own",
+   "operations": "resized to 512 for the hall memory budget",
+   "file": "lp5_leather_n.dds",
+   "bytes": 174888,
+   "sha256": "f0fddbd7af952f2f6ef7f513f298ba8633b4a719000a72c106ba7bddb343b53c"
+  }
+ ]
+}

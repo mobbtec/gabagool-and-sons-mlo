@@ -1,0 +1,212 @@
+{
+  "entities_before": 435,
+  "entities_after": 449,
+  "native_ydr": {
+    "gs_ah_closed": {
+      "tris": 38,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 14
+    },
+    "gs_ah_open": {
+      "tris": 60,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 86
+    },
+    "gs_boh": {
+      "tris": 7828,
+      "degenerate": 0,
+      "physical": 10223616,
+      "lights": 27
+    },
+    "gs_proto_glass_w1": {
+      "tris": 4,
+      "degenerate": 0,
+      "physical": 16384,
+      "lights": 0
+    },
+    "gs_proto_glass_w2": {
+      "tris": 4,
+      "degenerate": 0,
+      "physical": 16384,
+      "lights": 0
+    },
+    "gs_proto_shell": {
+      "tris": 2993,
+      "degenerate": 0,
+      "physical": 12582912,
+      "lights": 4
+    },
+    "gs_v021_hall": {
+      "tris": 51698,
+      "degenerate": 0,
+      "physical": 13107200,
+      "lights": 0
+    },
+    "gs_v26_market": {
+      "tris": 1924,
+      "degenerate": 0,
+      "physical": 5242880,
+      "lights": 0
+    },
+    "lp_aframe": {
+      "tris": 8,
+      "degenerate": 0,
+      "physical": 786432,
+      "lights": 0
+    },
+    "lp_blind_slat": {
+      "tris": 12,
+      "degenerate": 0,
+      "physical": 131072,
+      "lights": 0
+    },
+    "lp_roller": {
+      "tris": 302,
+      "degenerate": 0,
+      "physical": 131072,
+      "lights": 0
+    },
+    "lp_saloon_leaf": {
+      "tris": 168,
+      "degenerate": 0,
+      "physical": 1835008,
+      "lights": 0
+    },
+    "lp_secret_door": {
+      "tris": 46,
+      "degenerate": 0,
+      "physical": 393216,
+      "lights": 0
+    },
+    "lp_sign_board": {
+      "tris": 36,
+      "degenerate": 0,
+      "physical": 786432,
+      "lights": 0
+    },
+    "lp_sign_bracket": {
+      "tris": 36,
+      "degenerate": 0,
+      "physical": 262144,
+      "lights": 0
+    },
+    "lp_ticket_1": {
+      "tris": 2,
+      "degenerate": 0,
+      "physical": 131072,
+      "lights": 0
+    },
+    "lp_ticket_2": {
+      "tris": 2,
+      "degenerate": 0,
+      "physical": 131072,
+      "lights": 0
+    },
+    "lp_ticket_3": {
+      "tris": 2,
+      "degenerate": 0,
+      "physical": 131072,
+      "lights": 0
+    },
+    "lp_shut_d1_bar": {
+      "tris": 132,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 0
+    },
+    "lp_shut_d1_pnl": {
+      "tris": 106,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 0
+    },
+    "lp_shut_rail_d": {
+      "tris": 118,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 0
+    },
+    "lp_shut_rail_w": {
+      "tris": 118,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 0
+    },
+    "lp_shut_w1_bar": {
+      "tris": 132,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 0
+    },
+    "lp_shut_w1_pnl": {
+      "tris": 106,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 0
+    },
+    "lp_shut_w2_bar": {
+      "tris": 132,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 0
+    },
+    "lp_shut_w2_pnl": {
+      "tris": 106,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 0
+    },
+    "sc1_14_bb_meltdown": {
+      "tris": 2,
+      "degenerate": 0,
+      "physical": 524288,
+      "lights": 0
+    },
+    "sc1_14_build2": {
+      "tris": 10278,
+      "degenerate": 0,
+      "physical": 4390912,
+      "lights": 2
+    },
+    "sc1_14_grnd_02": {
+      "tris": 5288,
+      "degenerate": 0,
+      "physical": 1245184,
+      "lights": 0
+    },
+    "sc1_14_sc1_emissive_sc1_14b": {
+      "tris": 44,
+      "degenerate": 0,
+      "physical": 0,
+      "lights": 0
+    }
+  },
+  "other_assets": {
+    "gabagool_sons_mlo.ytyp": "AssetMapTypes",
+    "lp_props.ytyp": "AssetMapTypes",
+    "lp_shutters.ytyp": "AssetMapTypes",
+    "gs_longpig_int.ybn": "AssetBoundComposite",
+    "hi@sc1_14_0.ybn": "AssetBoundComposite",
+    "sc1_14_0.ybn": "AssetBoundComposite",
+    "gs_longpig_int_milo_.ymap": "AssetMapData",
+    "hei_sc1_occl_01.ymap": "AssetMapData",
+    "lr_sc1_occl_01.ymap": "AssetMapData",
+    "sc1_occl_01.ymap": "AssetMapData",
+    "sc1_14_bb_meltdown_slod_children.ydd": "AssetDrawableDictionary",
+    "sc1_14_slod1_children.ydd": "AssetDrawableDictionary",
+    "sc1_lod_14_29_31_32_33_children.ydd": "AssetDrawableDictionary",
+    "sc1_14_nbill_lod.ytd": "AssetTextureDictionary"
+  },
+  "short_lod": 119,
+  "portals": 5,
+  "rooms": [
+    "limbo",
+    "gs_front"
+  ],
+  "sets": {
+    "lp_open": 1,
+    "lp_closed": 2
+  }
+}

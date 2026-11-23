@@ -1,0 +1,24 @@
+{
+ "lp10_tile_red": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "395b70220d78995be5acc2159188608ee6198cd6965d8815ef7b15f9746e80f2",
+  "derived_from": "Tiles135C",
+  "source": "https://ambientcg.com/get?file=Tiles135C_1K-JPG.zip",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp10_tile_dirty": {
+  "size": [
+   512,
+   512
+  ],
+  "format": "DXT1",
+  "sha256": "c94e9f262d33f458288213fb2a4ee1fe0cd2c11b4f35a4af17bbc4d3a93c52a8",
+  "derived_from": "Tiles135C",
+  "source": "https://ambientcg.com/get?file=Tiles135C_1K-JPG.zip",
+  "licence": "CC0 1.0 (ambientCG)"
+ }
+}

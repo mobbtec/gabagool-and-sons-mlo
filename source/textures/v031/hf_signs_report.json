@@ -1,0 +1,56 @@
+{
+ "staffboard_hf": {
+  "into": "lp4_notices",
+  "box": [
+   256,
+   512,
+   512,
+   768
+  ],
+  "sha256_src": "85363ea56a7761ac4ebd94966e964b9b7be7fa9d481d5651e94ec041f61889fd"
+ },
+ "board_specials_hf2": {
+  "into": "lp4_notices",
+  "box": [
+   768,
+   0,
+   1024,
+   512
+  ],
+  "sha256_src": "06fff344bb0e3c5c721b36e3814b35ad1650b5f656b8e9a28ec310ae91bba86c"
+ },
+ "board_sandwiches_hf2": {
+  "into": "lp4_notices",
+  "box": [
+   768,
+   512,
+   1024,
+   1024
+  ],
+  "sha256_src": "27aeab99b90270c32e0f4c81add0f6c8c7674bc61d309204d42c6063b01f81ad"
+ },
+ "lp4_notices": {
+  "sha256": "7afa9a38815cc4f5e4475a08915f7e3a49e62b3615f19aa43790b1785ad7dee3",
+  "size": [
+   1024,
+   1024
+  ]
+ },
+ "banner_hf": {
+  "into": "lp6_atlas",
+  "box": [
+   0,
+   0,
+   1024,
+   136
+  ],
+  "sha256_src": "fc53b1dd7d49419785ea39cd119f0e0abe89bdcba1f72497289622020b3c8a1b"
+ },
+ "lp6_atlas": {
+  "sha256": "04e661878dc519931233f11c30b9e04985254529d2abdb2deaae446a9d2903c5",
+  "size": [
+   1024,
+   1024
+  ]
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "name": "lp18_signs",
+ "size": [
+  512,
+  512
+ ],
+ "format": "DXT1",
+ "sha256": "0073b61f4464f7e94382473240b2781976542f5eff7ef62f98c79e126ee1701b",
+ "origin": "own procedural (Pillow), script gs_15ae_signs18.py",
+ "fonts": "Poppins (SIL OFL 1.1)",
+ "regions": {
+  "tag_salami_fan": [
+   0,
+   0,
+   128,
+   64
+  ],
+  "tag_salami_fine": [
+   128,
+   0,
+   256,
+   64
+  ],
+  "tag_prosciutto_fold": [
+   256,
+   0,
+   384,
+   64
+  ],
+  "tag_mortadella": [
+   384,
+   0,
+   512,
+   64
+  ],
+  "tag_salami_logs": [
+   0,
+   64,
+   128,
+   128
+  ],
+  "tag_cheese_wedges": [
+   128,
+   64,
+   256,
+   128
+  ],
+  "tag_provolone_cut": [
+   256,
+   64,
+   384,
+   128
+  ],
+  "tag_mozzarella": [
+   384,
+   64,
+   512,
+   128
+  ],
+  "tag_olives_green": [
+   0,
+   128,
+   128,
+   192
+  ],
+  "tag_olives_black": [
+   128,
+   128,
+   256,
+   192
+  ],
+  "tag_peppers": [
+   256,
+   128,
+   384,
+   192
+  ],
+  "tag_ask": [
+   384,
+   128,
+   512,
+   192
+  ],
+  "pay": [
+   0,
+   192,
+   256,
+   288
+  ],
+  "staff": [
+   256,
+   192,
+   512,
+   288
+  ],
+  "clock": [
+   0,
+   288,
+   96,
+   384
+  ],
+  "wash": [
+   0,
+   384,
+   192,
+   512
+  ],
+  "menu": [
+   192,
+   384,
+   320,
+   512
+  ],
+  "takeout": [
+   320,
+   384,
+   512,
+   512
+  ]
+ }
+}

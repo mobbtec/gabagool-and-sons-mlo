@@ -1,0 +1,33 @@
+{
+ "_zip": {
+  "bytes": 4989008,
+  "sha256": "f416a92c0ceeb38da8152212e0275f28d885be1c6ed86059d508b314752aaa09"
+ },
+ "lp14_wall": {
+  "size": [
+   1024,
+   1024
+  ],
+  "sha256": "c5479a4fc491f8d029c862742961e5e902a0a46d39aff7b108965ef2d2b6363d",
+  "derived_from": "Tiles136B",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp14_wall_n": {
+  "size": [
+   512,
+   512
+  ],
+  "sha256": "ec62cfb83d0849f87d877d11c28cb6f41d44837dac9d324a84ff1af8e0ae7b28",
+  "derived_from": "Tiles136B",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp14_wall_s": {
+  "size": [
+   256,
+   256
+  ],
+  "sha256": "ab77b0c5e4aec68efe4963d92e010230156700583fae3ef531cbc34a3e3a0c06",
+  "derived_from": "Tiles136B",
+  "licence": "CC0 1.0 (ambientCG)"
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "script": "source/scripts/gs_15k_make_v027_textures.py",
+ "version": "0.2.7",
+ "textures": [
+  {
+   "name": "lp6_mat",
+   "file": "lp6_mat.dds",
+   "size": [
+    1024,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 349648,
+   "sha256": "861dde9d592821e048ad28117b8823a91190c8ebe76ecf5ad1ee499afe2a78e3",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL 6x4 ft nylon logo mat: charcoal pile, ribbed rubber border, red inlay (pig mark, LONG PIG, EST. 1979), traffic wear, grit, stain"
+  },
+  {
+   "name": "lp6_mat_n",
+   "file": "lp6_mat_n.dds",
+   "size": [
+    512,
+    256
+   ],
+   "format": "DXT1",
+   "role": "normal",
+   "bytes": 87504,
+   "sha256": "11bc24c1f9fa32ec33522c1b9a11d693772767b1c8d533d1844db43df54dc320",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL pile + rib normal"
+  },
+  {
+   "name": "lp6_atlas",
+   "file": "lp6_atlas.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "ecd90234efdb87bc5ee45546bd2705948ea4399bc3ac1db55e2cb4b0c8387b59",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL: storefront banner, thermometer sign, tray-station flap, take-out menu, fictional weekly, tip label, food-stamps card, tomato-can label, olive-oil tin labels, station top"
+  },
+  {
+   "name": "lp6_decal",
+   "file": "lp6_decal.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT5",
+   "role": "diffuse",
+   "bytes": 349648,
+   "sha256": "4515457d57a8a8a8a6812bc43c8bb282f6a3cb1239187d334530d5721510a098",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL decals: 2 ceiling leak streaks with tide lines, sticky soda spill, wet shoe prints"
+  },
+  {
+   "name": "lp6_puddle",
+   "file": "lp6_puddle.dds",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT5",
+   "role": "diffuse",
+   "bytes": 87504,
+   "sha256": "d85778fc641ee12f2404e4a6467901836620b8004d2821e7da10cf9a4c523616",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL puddle mask (dark, translucent)"
+  },
+  {
+   "name": "lp6_puddle_s",
+   "file": "lp6_puddle_s.dds",
+   "size": [
+    64,
+    64
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 2856,
+   "sha256": "81f819823764a7f17691f81b035f947a18fab4687e69c08b8e3f739cd7cce8af",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL full specular"
+  },
+  {
+   "name": "lp6_food_n",
+   "file": "lp6_food_n.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "resized",
+   "bytes": 174888,
+   "sha256": "fd92df540e1adf82f39cb32ef01ded3eb5c8b4c365f6b0d285914445506fb34d",
+   "derived_from": [
+    "source/textures/v023/lp3_food_n.png"
+   ],
+   "origin": "derived_own",
+   "operations": "resized to 512 for the hall memory budget"
+  },
+  {
+   "name": "lp6_laminate_red",
+   "file": "lp6_laminate_red.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "resized",
+   "bytes": 174888,
+   "sha256": "a5e54ca6e1896e9dc088471d7f92a456363cb54ae3ed48f3e26d2b170c05d542",
+   "derived_from": [
+    "source/textures/v025/lp4_laminate_red.png"
+   ],
+   "origin": "derived_own",
+   "operations": "resized to 512 for the hall memory budget"
+  },
+  {
+   "name": "lp6_laminate_cream",
+   "file": "lp6_laminate_cream.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "resized",
+   "bytes": 174888,
+   "sha256": "da92914f9e8b08ba4adad55cb735049eead948495b4dc3298bba115088716078",
+   "derived_from": [
+    "source/textures/v025/lp4_laminate_cream.png"
+   ],
+   "origin": "derived_own",
+   "operations": "resized to 512 for the hall memory budget"
+  }
+ ]
+}

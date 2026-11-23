@@ -1,0 +1,62 @@
+{
+ "lp12_wall_tile": {
+  "size": [
+   1024,
+   1024
+  ],
+  "sha256": "180995b5a19160cd432b8b99490700da74dfe2f1583e5507b75abc26473bb2ac",
+  "derived_from": "Tiles095",
+  "source": "https://ambientcg.com/get?file=Tiles095_1K-JPG.zip",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp12_wall_tile_n": {
+  "size": [
+   512,
+   512
+  ],
+  "sha256": "90aa13ae615bc649ffcd4ab6040e7baa0047998665d328993411867d978ba78d",
+  "derived_from": "Tiles095",
+  "source": "https://ambientcg.com/get?file=Tiles095_1K-JPG.zip",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp12_wall_tile_s": {
+  "size": [
+   256,
+   256
+  ],
+  "sha256": "4834fd83a878ae987bd2627406babb8ddbc6c7c432ecd6ce6a04cf19066ea510",
+  "derived_from": "Tiles095",
+  "source": "https://ambientcg.com/get?file=Tiles095_1K-JPG.zip",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp12_board": {
+  "size": [
+   1024,
+   1024
+  ],
+  "sha256": "f63430ca912cc63ca0254a5b74d5cb0cc31e5edbb2c72b16c5796c0204de7da7",
+  "derived_from": "WoodSiding005",
+  "source": "https://ambientcg.com/get?file=WoodSiding005_1K-JPG.zip",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp12_board_n": {
+  "size": [
+   512,
+   512
+  ],
+  "sha256": "601922c5bad22f00bd6d4f6af17a6723d4ae42964d83e3e58f3fbcfff9a19700",
+  "derived_from": "WoodSiding005",
+  "source": "https://ambientcg.com/get?file=WoodSiding005_1K-JPG.zip",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp12_board_s": {
+  "size": [
+   256,
+   256
+  ],
+  "sha256": "8a3cfc79194355584452e6f8bd6636c6ae3512864a17492bbd37da7d583aa876",
+  "derived_from": "WoodSiding005",
+  "source": "https://ambientcg.com/get?file=WoodSiding005_1K-JPG.zip",
+  "licence": "CC0 1.0 (ambientCG)"
+ }
+}

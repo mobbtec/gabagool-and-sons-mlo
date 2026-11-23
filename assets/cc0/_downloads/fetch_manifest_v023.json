@@ -1,0 +1,69 @@
+{
+ "started": "2026-11-01 14:17:25",
+ "approved": "user, chat 2026-11-01 14:08 (v0.2.3 walls: Tiles010 + PaintedBricks004)",
+ "files": [
+  {
+   "platform": "ambientcg",
+   "asset": "Tiles010",
+   "file": "assets/cc0/_downloads/Tiles010_1K-JPG.zip",
+   "url": "https://ambientcg.com/get?file=Tiles010_1K-JPG.zip",
+   "expected_bytes": 4331091,
+   "md5_published": null,
+   "final_url": "https://acg-download.struffelproductions.com/file/ambientCG-Web/download/Tiles010_8W4RsFij/Tiles010_1K-JPG.zip",
+   "bytes": 4331091,
+   "md5": "9cc2b3782a6216d8c4d4f0b7c3c829cd",
+   "sha256": "14d87fcd62d10977b5e57778d5271912e0fc3eab702d4ffbc55855e8a84c6280",
+   "ok": true,
+   "retrieved": "2026-11-01 14:17:29"
+  },
+  {
+   "platform": "ambientcg",
+   "asset": "PaintedBricks004",
+   "file": "assets/cc0/_downloads/PaintedBricks004_1K-JPG.zip",
+   "url": "https://ambientcg.com/get?file=PaintedBricks004_1K-JPG.zip",
+   "expected_bytes": 6964286,
+   "md5_published": null,
+   "final_url": "https://acg-download.struffelproductions.com/file/ambientCG-Web/download/PaintedBricks004_tUykmI1p/PaintedBricks004_1K-JPG.zip",
+   "bytes": 6964286,
+   "md5": "02dd84625aa8083dcbf8ec79a9e58992",
+   "sha256": "65c3c8fb7eaf7c1c353f7846e70e55da94698496337ab03014bdd348c498a5b3",
+   "ok": true,
+   "retrieved": "2026-11-01 14:17:33"
+  }
+ ],
+ "licenses": [
+  {
+   "platform": "polyhaven",
+   "url": "https://polyhaven.com/license",
+   "final_url": "https://polyhaven.com/license",
+   "file": "assets/licenses/polyhaven_license.html",
+   "bytes": 72685,
+   "sha256": "46158a6b319ae8ef55acd18bd96d986c9261fb0cc8086124e97bcbefe779a623",
+   "retrieved": "2026-11-01 14:17:33"
+  },
+  {
+   "platform": "ambientcg",
+   "url": "https://docs.ambientcg.com/license/",
+   "final_url": "https://docs.ambientcg.com/license/",
+   "file": "assets/licenses/ambientcg_license.html",
+   "bytes": 34349,
+   "sha256": "86d690c1384e979c84fcb607c66dcd4802ff75f917a2fbef1658add632d1b11b",
+   "retrieved": "2026-11-01 14:17:34"
+  }
+ ],
+ "info": {
+  "Tiles010": {
+   "url": "https://ambientcg.com/api/v2/full_json?id=Tiles010&include=downloadData,tagData",
+   "file": "assets/cc0/_downloads/info_Tiles010.json",
+   "sha256": "f22e3ce952b988e184c5236245023d079601e550ea3f3059c9032da9986574f4"
+  },
+  "PaintedBricks004": {
+   "url": "https://ambientcg.com/api/v2/full_json?id=PaintedBricks004&include=downloadData,tagData",
+   "file": "assets/cc0/_downloads/info_PaintedBricks004.json",
+   "sha256": "6448f5f56a97b2811f2f24dee790bbb0559ffd9e472f8708bd28dbbeb8666035"
+  }
+ },
+ "errors": [],
+ "finished": "2026-11-01 14:17:34",
+ "all_ok": true
+}

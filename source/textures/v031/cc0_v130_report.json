@@ -1,0 +1,56 @@
+{
+ "lp13_floor": {
+  "size": [
+   1024,
+   1024
+  ],
+  "sha256": "d420a4df73061403637be00169a9f62c7fcbcc5b58131f0e33f15c6138e79d6d",
+  "derived_from": "Tiles012",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp13_floor_n": {
+  "size": [
+   512,
+   512
+  ],
+  "sha256": "7ef8bd74ae2671c9f0d47845c960db3ba35a82cda51e0a2f2e82000ecff0c485",
+  "derived_from": "Tiles012",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp13_floor_s": {
+  "size": [
+   256,
+   256
+  ],
+  "sha256": "99ef40249f8a5ed7d9301d72dde5b3f30f6b141eb460c496b4823d1449b8fcc2",
+  "derived_from": "Tiles012",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp13_tile_white": {
+  "size": [
+   1024,
+   1024
+  ],
+  "sha256": "d973265007326776be420cd44552e3407b6b6412ecbb4046c63c370a94d1b8fb",
+  "derived_from": "Tiles133B",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp13_tile_white_n": {
+  "size": [
+   512,
+   512
+  ],
+  "sha256": "5ce66579946c2b89909f01def2f8913e5fb69faadac236cb791db851935b9a71",
+  "derived_from": "Tiles133B",
+  "licence": "CC0 1.0 (ambientCG)"
+ },
+ "lp13_tile_white_s": {
+  "size": [
+   256,
+   256
+  ],
+  "sha256": "51bcc25033f4e82608c6296e4b331e0baf2b74e1e7f4a4cfbc75839991fb2ea2",
+  "derived_from": "Tiles133B",
+  "licence": "CC0 1.0 (ambientCG)"
+ }
+}

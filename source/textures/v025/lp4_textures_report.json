@@ -1,0 +1,240 @@
+{
+ "script": "source/scripts/gs_15g_make_v025_textures.py",
+ "version": "0.2.5",
+ "textures": [
+  {
+   "name": "lp4_tile_red",
+   "file": "lp4_tile_red.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "8f7b038208920b0f1c4addb24b9d697ae42e84fd46db6ebc68859303de66bea0",
+   "derived_from": [
+    "source/textures/v023/lp3_tile_red.png"
+   ],
+   "origin": "derived_own",
+   "operations": "desaturate/darken to faded oxblood, per-tile glaze variation, ~4% replacement tiles, crazing, dusty grey-brown grout"
+  },
+  {
+   "name": "lp4_tile_white",
+   "file": "lp4_tile_white.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "553dd022f5669618a45d5132cfc6bc23503a16e7b86fb904ccba2d7029c7810a",
+   "derived_from": [
+    "source/textures/v023/lp3_tile_white.png"
+   ],
+   "origin": "derived_own",
+   "operations": "yellowed glaze, tile-to-tile variation, one whiter replacement tile per repeat, grease-grey grout"
+  },
+  {
+   "name": "lp4_paintbrick",
+   "file": "lp4_paintbrick.dds",
+   "size": [
+    2048,
+    2048
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 2796328,
+   "sha256": "d2d5a8c2468b439fcf2f20224aef96efe9c56270e2718e261598e75967de62d3",
+   "derived_from": [
+    "source/textures/v023/lp3_paintbrick.png"
+   ],
+   "origin": "derived_own",
+   "operations": "recolour to aged cream, soft repaint patches (lighter / yellower), low-frequency dust"
+  },
+  {
+   "name": "lp4_floor_bw",
+   "file": "lp4_floor_bw.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "35f1a41e2e8cb704b8dbb02161de85bb76cc5485501a762d000319e8c5d618a8",
+   "derived_from": [
+    "source/textures/v023/lp3_floor_bw.png"
+   ],
+   "origin": "derived_own",
+   "operations": "lower contrast: charcoal + aged off-white, per-tile variation, traffic dulling, corner chips"
+  },
+  {
+   "name": "lp4_floor_s",
+   "file": "lp4_floor_s.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "spec",
+   "bytes": 174888,
+   "sha256": "5dfa044b7cdc8839ca07e38d92b9e026486e8ce92247085ba78c904d45395631",
+   "derived_from": [
+    "source/textures/slice/lp_floor_checker_s.png"
+   ],
+   "origin": "derived_own",
+   "operations": "specular x0.55 (dull, walked-on vinyl)"
+  },
+  {
+   "name": "lp4_ceiling_tile",
+   "file": "lp4_ceiling_tile.dds",
+   "size": [
+    2048,
+    2048
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 2796328,
+   "sha256": "90d790646fe34ea37afa4feeb26390df52337d5d18958c629dfb4621568824d7",
+   "derived_from": [
+    "source/textures/v023/lp3_ceiling_tile.png"
+   ],
+   "origin": "derived_own",
+   "operations": "yellowed acoustic tile, tile-to-tile tone variation, rare whiter replacement tile"
+  },
+  {
+   "name": "lp4_vinyl_red",
+   "file": "lp4_vinyl_red.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "fd2cd170c5eff60f8fa899fa29465c5990c683cfe8b77a403a4da67370c020b3",
+   "derived_from": [
+    "source/textures/v023/lp3_vinyl_red.png"
+   ],
+   "origin": "derived_own",
+   "operations": "desaturate/darken to dull oxblood, rubbed lighter wear patches"
+  },
+  {
+   "name": "lp4_laminate_red",
+   "file": "lp4_laminate_red.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "7e2d4a6e839b0b0748665ef437029dad0b9d7004d7c5a8f3520fba072177aaec",
+   "derived_from": [
+    "source/textures/v023/lp3_laminate_red.png"
+   ],
+   "origin": "derived_own",
+   "operations": "muted brown-burgundy, low-frequency rubbing"
+  },
+  {
+   "name": "lp4_laminate_cream",
+   "file": "lp4_laminate_cream.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "bfd4cb8ca1d82c38fc10935532f8ce93da7c5239351c4acccfc8c4e771c28b6e",
+   "derived_from": [
+    "source/textures/v023/lp3_laminate_cream.png"
+   ],
+   "origin": "derived_own",
+   "operations": "yellowed cream laminate, fine scratches, faint cup rings"
+  },
+  {
+   "name": "lp4_menu",
+   "file": "lp4_menu.dds",
+   "size": [
+    2048,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 1398224,
+   "sha256": "b9ef7f1dc808db51375f25b822802c12de035270bae40ab75a671f7d7bddcefa",
+   "derived_from": [
+    "source/textures/v023/lp3_menu.png"
+   ],
+   "origin": "derived_own",
+   "operations": "faded / yellowed backlit menu film, sun-fade gradient, 3 stick-on price corrections"
+  },
+  {
+   "name": "lp4_troffer",
+   "file": "lp4_troffer.dds",
+   "size": [
+    256,
+    256
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 43816,
+   "sha256": "98974c9af7a5e578c7a561351b7804470aa8b4a0f36bafce378698bfbcf5096d",
+   "derived_from": [
+    "source/textures/v023/lp3_troffer.png"
+   ],
+   "origin": "derived_own",
+   "operations": "slightly yellowed fluorescent diffuser"
+  },
+  {
+   "name": "lp4_flag",
+   "file": "lp4_flag.dds",
+   "size": [
+    512,
+    512
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 174888,
+   "sha256": "5acf837aeb655e135cc0721454ae37449a2a84696441be9f960794e5d16d15df",
+   "derived_from": [
+    "source/textures/v021/lp2_flag.png"
+   ],
+   "origin": "derived_own",
+   "operations": "sun-bleached tricolore: desaturated, cream cast, dust"
+  },
+  {
+   "name": "lp4_notices",
+   "file": "lp4_notices.dds",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "DXT1",
+   "role": "diffuse",
+   "bytes": 699176,
+   "sha256": "0b968228a5165b9d941116b8554ddcb5536478bfa2269268224e1cfe63109423",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL typographic / drawn notices atlas: health permit, grade card, calendar 2001, staff schedule, CASH ONLY, NO LOITERING, special, cork flyers, 1979 shop photo, espresso poster, clipping, WE CARD, 2 letterboards"
+  },
+  {
+   "name": "lp4_decal_wear",
+   "file": "lp4_decal_wear.dds",
+   "size": [
+    1024,
+    512
+   ],
+   "format": "DXT5",
+   "role": "diffuse",
+   "bytes": 699168,
+   "sha256": "e6bd74f6ee6c16f447355b367235f36f04c2c0bcf89a1a3749b5ef2e33a639c9",
+   "derived_from": [],
+   "origin": "original_procedural",
+   "operations": "ORIGINAL wear decals: wall-base grime, floor traffic, drips, heel scuffs, ceiling water stain, plaster patch, removed-fixture ghost, tape repair"
+  }
+ ]
+}

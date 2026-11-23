@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LONG PIG (gabagool_sons_mlo) interior timecycle modifier: own values, v0.2.2; 2.7.0: warmer + slightly stronger artificial ambient (owner); v0.2.7: artificial up-ambient 0.12 -> 0.28 (ceiling was black at night) -->
+<timecycle_modifier_data version="1.000000">
+	<modifier name="lp_longpig_hall" numMods="21" userFlags="0">
+		<natural_ambient_multiplier>0.100000 0.000000</natural_ambient_multiplier>
+		<artificial_int_ambient_multiplier>0.620000 0.000000</artificial_int_ambient_multiplier>
+		<light_artificial_int_down_col_r>1.000000 1.000000</light_artificial_int_down_col_r>
+		<light_artificial_int_down_col_g>0.740000 1.000000</light_artificial_int_down_col_g>
+		<light_artificial_int_down_col_b>0.460000 1.000000</light_artificial_int_down_col_b>
+		<light_artificial_int_down_intensity>0.270000 0.000000</light_artificial_int_down_intensity>
+		<light_artificial_int_up_col_r>0.900000 1.000000</light_artificial_int_up_col_r>
+		<light_artificial_int_up_col_g>0.690000 1.000000</light_artificial_int_up_col_g>
+		<light_artificial_int_up_col_b>0.440000 1.000000</light_artificial_int_up_col_b>
+		<light_artificial_int_up_intensity>0.320000 0.000000</light_artificial_int_up_intensity>
+		<light_amb_down_wrap>0.300000 0.000000</light_amb_down_wrap>
+		<postfx_exposure>-0.120000 0.000000</postfx_exposure>
+		<postfx_bright_pass_thresh>0.630000 0.000000</postfx_bright_pass_thresh>
+		<postfx_bright_pass_thresh_width>0.550000 0.000000</postfx_bright_pass_thresh_width>
+		<postfx_intensity_bloom>0.560000 0.000000</postfx_intensity_bloom>
+		<ssao_inten>4.500000 0.000000</ssao_inten>
+		<ped_light_mult>0.300000 0.000000</ped_light_mult>
+		<ped_light_col_r>1.000000 1.000000</ped_light_col_r>
+		<ped_light_col_g>0.800000 1.000000</ped_light_col_g>
+		<ped_light_col_b>0.560000 1.000000</ped_light_col_b>
+		<reflection_tweak_interior_amb>6.000000 0.000000</reflection_tweak_interior_amb>
+	</modifier>
+	<!-- Applied inside the shop from 20:00 through 06:59, and while After Hours is active. The exposure cap limits night adaptation. -->
+	<modifier name="lp_longpig_night" numMods="9" userFlags="0">
+		<artificial_int_ambient_multiplier>0.140000 0.000000</artificial_int_ambient_multiplier>
+		<light_artificial_int_down_intensity>0.048000 0.000000</light_artificial_int_down_intensity>
+		<light_artificial_int_up_intensity>0.062000 0.000000</light_artificial_int_up_intensity>
+		<postfx_exposure>-1.180000 0.000000</postfx_exposure>
+		<postfx_exposure_max>0.200000 0.000000</postfx_exposure_max>
+		<postfx_bright_pass_thresh>0.950000 0.000000</postfx_bright_pass_thresh>
+		<postfx_intensity_bloom>0.080000 0.000000</postfx_intensity_bloom>
+		<ped_light_mult>0.180000 0.000000</ped_light_mult>
+		<reflection_tweak_interior_amb>3.000000 0.000000</reflection_tweak_interior_amb>
+	</modifier>
+</timecycle_modifier_data>
